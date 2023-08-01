@@ -1,5 +1,5 @@
 # God-of-War-Speedrun-Wiki
-![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/mimir-mountain.jpg)
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/mimir-mountain.jpg)
 - - - -
 Index
 - [Introduction](#introduction)
