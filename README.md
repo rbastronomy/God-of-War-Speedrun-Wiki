@@ -1,5 +1,6 @@
 # God-of-War-Speedrun-Wiki
-
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/1%2B(800).jpg)
+- - - -
 Index
 - [Introduction](#introduction)
  
