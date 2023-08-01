@@ -8,13 +8,13 @@ This repository will be only to save information and guides regarding the games 
 **God of War Speedrunning Discord (Portuguese):** https://discord.gg/CHHAQZeZp7
 - - - -
 ## Greek Mythology
-- [God of War 2005]()
-- [God of War II 2007]()
-- [God of War III 2010]()
-- [God of War: Ascension 2013]()
-- [God of War: Chains of Olympus 2008]()
-- [God of War: Ghost of Sparta 2010]()
+- [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
+- [God of War II 2007](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
+- [God of War III 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2010.md)
+- [God of War: Ascension 2013](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
+- [God of War: Chains of Olympus 2008](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarCOO.md)
+- [God of War: Ghost of Sparta 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarGOS.md)
 
 ## Norse Mythology
-- [God of War 2018](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/tree/main#god-of-war-2018)
-- [God of War Ragnarok](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/tree/main#god-of-war-ragnarok)
+- [God of War 2018](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2018.md)
+- [God of War Ragnarok](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarRagnarok.md)
