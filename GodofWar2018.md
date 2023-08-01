@@ -1,5 +1,5 @@
 - - - -
-Index
+# **Index**
 - [Introduction](#introduction)
 - [God of War 2018](#god-of-war-2018)
   - [Options](#options)
@@ -11,6 +11,9 @@ Index
     - [Photo Mode](#photo-mode)
     - [Accessibility](#accessibility)
 - - - -
+## Introduction
+In this section you'll find everything you need to start speedrunning this game, from the options to the categories and the rules for each category and the resources you'll need to start speedrunning this game. 
+
 
 ## God of War 2018
 
