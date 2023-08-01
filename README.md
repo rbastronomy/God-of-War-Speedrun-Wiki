@@ -3,7 +3,17 @@
 - - - -
 Index
 - [Introduction](#introduction)
-
+- [God of War 2018](#god-of-war-2018)
+  - [Options](#options)
+    - [Gameplay](#gameplay)
+    - [HUD](#hud)
+    - [Camera](#camera)
+    - [Audio](#audio)
+    - [Video](#video)
+    - [Photo Mode](#photo-mode)
+    - [Accessibility](#accessibility)
+    - [Credits](#credits)
+    - [View Controls](#view-controls)
 - - - -
 ## Introduction
 This repository will be only to save information and guides regarding the games of the God of War saga, all the information shown was found by the community.
