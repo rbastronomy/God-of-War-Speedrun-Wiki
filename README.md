@@ -1,5 +1,5 @@
 # God-of-War-Speedrun-Wiki
-![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/mimir-mountain.jpg)
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/mimir-mountain.jpg)
 - - - -
 Index
 - [Introduction](#introduction)
@@ -17,7 +17,7 @@ This repository will be only to save information and guides regarding the games 
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
 #### Gameplay
 
-![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/gameplay.jpg)
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gameplay.png)
 
 - **Difficulty:** Give me a Challenge/Give me God of War the difficulty is up to you or what category you're running.
 - **Controller Vibration:** It's up to you if you want to have it on or off.
