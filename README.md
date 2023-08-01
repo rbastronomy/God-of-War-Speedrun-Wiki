@@ -13,9 +13,9 @@ This repository will be only to save information and guides regarding the games 
 - - - -
 ## God of War 2018
 
-### Options
+### **Options**
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
-#### Gameplay
+#### *Gameplay*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gameplay.png)
 
