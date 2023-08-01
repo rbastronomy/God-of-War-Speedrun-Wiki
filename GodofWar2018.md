@@ -1,3 +1,17 @@
+- - - -
+Index
+- [Introduction](#introduction)
+- [God of War 2018](#god-of-war-2018)
+  - [Options](#options)
+    - [Gameplay](#gameplay)
+    - [HUD](#hud)
+    - [Camera](#camera)
+    - [Audio](#audio)
+    - [Video](#video)
+    - [Photo Mode](#photo-mode)
+    - [Accessibility](#accessibility)
+- - - -
+
 ## God of War 2018
 
 ### **Options**
