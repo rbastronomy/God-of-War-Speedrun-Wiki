@@ -18,13 +18,13 @@
     - [Photo Mode](#photo-mode)
     - [Accessibility](#accessibility)
 - - - -
-## Introduction
+# Introduction
 In this section you'll find everything you need to start speedrunning this game or anything related to the game itself. 
 
 if the image or "preview" is not moving try clicking the tumbnail and it will redirect you to a youtube/twitch video.
 
 
-## God of War 2018
+# God of War 2018
 
 ## **Gliches & Tricks**
 
