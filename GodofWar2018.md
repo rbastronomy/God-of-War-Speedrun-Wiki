@@ -60,6 +60,10 @@ Brook's bridge skip
 Climbing Sword Skip
 - For this particular case the consistency for this trick is unknown but at least is real and possible to replicate just have to aim correctly between the wall and the kick interaction so kratos can climb the wall and skip the sword climbing animation.
 
+[![Video](https://clips-media-assets2.twitch.tv/AT-cm%7C123456789%7CIntelligentDirtyPoultryPupper-uUretmhpHTUoaj3B-preview-260x147.jpg)](https://clips.twitch.tv/IntelligentDirtyPoultryPupper-uUretmhpHTUoaj3B)
+
+Alfheim Nornir Chest Skip
+- This trick allows you to skip the process of finding each rune to open the Nornir Chest, you can destroy the first rune with an ability that has splash damage or an explosion and the second rune can be destroyed by simply throwing the axe at it.
 
 
 ## *Bosses*
@@ -69,8 +73,10 @@ Climbing Sword Skip
 First Troll Fight (Hardest Difficulty)
 - You can use the same strategy as the video above, but you'll have to be more careful with the troll's attacks to dodge correctly and not get hit.
 
+[![Video](https://img.youtube.com/vi/hXibD9CZtf4/0.jpg)](https://www.youtube.com/watch?v=hXibD9CZtf4)
 
-
+Hraezlyr Bug Fight
+- Hraezlyr can send you high in the sky if you're in the right position, so far it's not known if this has any potential to skip this part of the game/fight
 
 
 ## *Miscellaneous*
@@ -93,10 +99,7 @@ Helheim Boat Out of Bounds
 - If you're close the mini-bridge to unstuck the boat and you're in the right position you can get out of bounds and fall but the consecuence it's that you lose around 3-6 minutes because you'll have to start again the boat travel.
 
 
-[![Video](https://img.youtube.com/vi/hXibD9CZtf4/0.jpg)](https://www.youtube.com/watch?v=hXibD9CZtf4)
 
-Hraezlyr Bug Fight
-- Hraezlyr can send you high in the sky if you're in the right position, so far it's not known if this has any potential to skip this part of the game/fight
 
 
 
