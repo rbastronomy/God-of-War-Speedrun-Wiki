@@ -38,8 +38,8 @@ Helheim Interact mini skip
 
 [![Video](https://img.youtube.com/vi/3fAGIub_QEI/0.jpg)](https://www.youtube.com/watch?v=3fAGIub_QEI)
 
-Runic Attack tutorial glitch. Found by: greembic
-- This glitch allows to skip a level for "hel's touch" runic attack by simply grabbing the runic and after you adquire it you have to restart checkpoint and go back to the chest and grab it again. for very easy the maximum level that you can achieve is level 2 BUT for very hard you'll have to level up first the runic attack to level 2 because when you restart and grab it again it will level up so is recommend to level it up first and then grab it again so it levels up to level 3.
+Hel's Touch Runic Attack tutorial glitch. Found by: greembic
+- This glitch allows to skip a level for "hel's touch" runic attack by simply grabbing the runic again. After you adquire it you have to restart checkpoint and go back to the chest and grab it again. for very easy the maximum level that you can achieve is level 2 BUT for very hard you'll have to level up first the runic attack to level 2 because when you restart and grab it again it will level up so is recommended to level it up first and then grab it again so it levels up to level 3.
 
 #### *Tricks*
 
