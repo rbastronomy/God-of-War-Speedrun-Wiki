@@ -1,3 +1,4 @@
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/1+(800).jpg)
 - - - -
 # **Index**
 - [Introduction](#introduction)
@@ -17,19 +18,23 @@
     - [Accessibility](#accessibility)
 - - - -
 ## Introduction
-In this section you'll find everything you need to start speedrunning this game, from the options to the categories and the rules for each category and the resources you'll need to start speedrunning this game. 
+In this section you'll find everything you need to start speedrunning this game or anything related to the game itself. 
 
 
 ## God of War 2018
 
 ### **Gliches & Tricks**
 
-[![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t=30)
+
 
 
 #### *Glitches*
 
 #### *Tricks*
+
+Brook's bridge skip
+[![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t=30)
+- Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
 
 #### *Miscellaneous*
 
