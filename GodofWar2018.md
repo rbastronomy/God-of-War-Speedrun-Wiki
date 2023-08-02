@@ -68,7 +68,9 @@ Valkyrie Out of Bounds
 Helheim Boat Out of Bounds
 - If you're close the mini-bridge to unstuck the boat and you're in the right position you can get out of bounds and fall but the consecuence it's that you lose around 3-6 minutes because you'll have to start again the boat travel.
 
-
+[![Video](https://img.youtube.com/vi/hXibD9CZtf4/0.jpg)](https://www.youtube.com/watch?v=hXibD9CZtf4)
+Hraezlyr Bug Fight
+- Hraezlyr can send you high in the sky if you're in the right position, so far it's not known if this has any potential to skip this part of the game/fight
 
 
 
