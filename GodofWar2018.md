@@ -10,8 +10,8 @@
   - [Miscellaneous](##miscellaneous)
 
 - [Hardware](##Hardware)
-  -[Console](##console)
-  
+  - [Console](##console)
+
 - [Options](#options)
     - [Gameplay](##gameplay)
     - [HUD](##hud)
