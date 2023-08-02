@@ -37,8 +37,7 @@ Helheim Interact mini skip
 
 #### *Tricks*
 
-
-![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t)
+[![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t)
 
 Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
