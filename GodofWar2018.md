@@ -31,7 +31,7 @@ if the image or "preview" is not moving try clicking the tumbnail and it will re
 
 
 
-#### *Glitches*
+### *Glitches*
 ![Video](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/videos/helheim-interact-clip.webp)
 Helheim Interact mini skip
 - This glitch allows you to skip the Helheim Interact climb animation when you're positioned next to the falling stone, it's very consistent and easy to do.
@@ -41,7 +41,7 @@ Helheim Interact mini skip
 Hel's Touch Runic Attack tutorial glitch. Found by: greembic
 - This glitch allows to skip a level for "hel's touch" runic attack by simply grabbing the runic again. After you adquire it you have to restart checkpoint and go back to the chest and grab it again. for very easy the maximum level that you can achieve is level 2 BUT for very hard you'll have to level up first the runic attack to level 2 because when you restart and grab it again it will level up so is recommended to level it up first and then grab it again so it levels up to level 3.
 
-#### *Tricks*
+### *Tricks*
 
 [![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t)
 
@@ -49,7 +49,7 @@ Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
 
 
-#### *Bosses*
+### *Bosses*
 
 [![Video](https://img.youtube.com/vi/-E1-Cema3-Y/0.jpg)](https://youtu.be/-E1-Cema3-Y?t=436)
 
@@ -59,7 +59,7 @@ First Troll Fight (Hardest Difficulty)
 
 
 
-#### *Miscellaneous*
+### *Miscellaneous*
 
 [![Video](https://img.youtube.com/vi/MzmW4BiNMto/0.jpg)](https://www.youtube.com/watch?v=MzmW4BiNMto&t=45)
 Helheim Raven Skip
@@ -91,7 +91,7 @@ Hraezlyr Bug Fight
 ### **Options**
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
 
-#### *Gameplay*
+### *Gameplay*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gameplay.png)
 
@@ -104,25 +104,25 @@ This settings for the game are recommended or at least an idea of what options y
 - **Tutorial Mode:** This is recommended to be Minimal, because it reduces the amount of tutorials that appear on screen.
 - **Skip Cinematics:**  Yes, this is recommended to be on, because it allows you to skip cinematics.
 
-#### *HUD*
+### *HUD*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/HUD.png)
 
 - **HUD:** For HUD it's obligatory to have everything On, because it's needed for the speedrun.
 
-#### *Camera*
+### *Camera*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/CAMERA.png)
 
 In this case the camera settings are up to you, but this are my camera options for speedruns (just an example).
 
-#### *Audio*
+### *Audio*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/AUDIO.png)
 
 you're free to choose the audio settings you want.
 
-#### *Video*
+### *Video*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/VIDEO.png)
 
@@ -130,13 +130,13 @@ you're free to choose the audio settings you want.
 - **Film Grain:** Off, this is recommended to be off, because it makes the game look more smooth.
 - **Graphics Mode:** Performance, this is recommended to be on Performance, because it makes the game run between 40-60 FPS in the Ps4 Slim-Pro, this option is not available for the Ps4.
 
-#### *Photo Mode*
+### *Photo Mode*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/PHOTOMODE.png)
 
 - **Photo Mode:** Off, this is recommended to be off, to prevent the game from pausing by accident.
 
-#### *Accessibility*
+### *Accessibility*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/ACCESSIBILITY.png)
 
