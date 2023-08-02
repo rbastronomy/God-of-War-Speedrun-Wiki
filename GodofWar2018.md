@@ -23,6 +23,29 @@ In this section you'll find everything you need to start speedrunning this game,
 
 ## God of War 2018
 
+### **Gliches & Tricks**
+
+#### *Glitches*
+
+#### *Tricks*
+
+#### *Miscellaneous*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### **Options**
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
 
