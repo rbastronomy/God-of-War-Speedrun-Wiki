@@ -60,7 +60,9 @@ First Troll Fight (Hardest Difficulty)
 Helheim Raven Skip
 - A raven skip that you can do in Helheim early in the game instead of going back later to.
 
-
+[![Video](https://img.youtube.com/vi/v-CG-JLwQ-E/0.jpg)](https://www.youtube.com/watch?v=v-CG-JLwQ-E&t=75)
+Valkyrie Out of Bounds
+- Sometimes the valkyries can fly away of the arena and get stuck leaving you in a softlock, sometimes the valkyrie dies too (it's very rare and more common in sigrun's fight)
 
 
 
