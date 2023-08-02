@@ -4,19 +4,22 @@
 - [Introduction](#introduction)
 
 - [Glitches & Tricks](#glitches-&-Tricks)
-  - [Glitches](#glitches)
-  - [Tricks](#tricks)
-  - [Bosses](#bosses)
-  - [Miscellaneous](#miscellaneous)
+  - [Glitches](##glitches)
+  - [Tricks](##tricks)
+  - [Bosses](##bosses)
+  - [Miscellaneous](##miscellaneous)
+
+- [Hardware](##Hardware)
+  -[Console](##console)
   
 - [Options](#options)
-    - [Gameplay](#gameplay)
-    - [HUD](#hud)
-    - [Camera](#camera)
-    - [Audio](#audio)
-    - [Video](#video)
-    - [Photo Mode](#photo-mode)
-    - [Accessibility](#accessibility)
+    - [Gameplay](##gameplay)
+    - [HUD](##hud)
+    - [Camera](##camera)
+    - [Audio](##audio)
+    - [Video](##video)
+    - [Photo Mode](##photo-mode)
+    - [Accessibility](##accessibility)
 - - - -
 # Introduction
 In this section you'll find everything you need to start speedrunning this game or anything related to the game itself. 
@@ -110,9 +113,15 @@ Helheim Boat Out of Bounds
 
 
 
+## **Hardware**
+This section is related about how the hardware affects the game and the speedrun.
+
+## **Load Times**
 
 
-## **Options**
+
+
+# **Options**
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
 
 ## *Gameplay*
