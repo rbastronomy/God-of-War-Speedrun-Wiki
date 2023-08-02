@@ -2,8 +2,13 @@
 # **Index**
 - [Introduction](#introduction)
 - [God of War 2018](#god-of-war-2018)
-
-  - [Options](#options)
+-[Combat](#combat)
+- [Glitches & Tricks](#glitches--tricks)
+  - [Glitches](#glitches)
+  - [Tricks](#tricks)
+  - [Miscellaneous](#miscellaneous)
+  
+- [Options](#options)
     - [Gameplay](#gameplay)
     - [HUD](#hud)
     - [Camera](#camera)
@@ -20,6 +25,7 @@ In this section you'll find everything you need to start speedrunning this game,
 
 ### **Options**
 This settings for the game are recommended or at least an idea of what options you'll have to use to make the speedrun more accesible.
+
 #### *Gameplay*
 
 ![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gameplay.png)
