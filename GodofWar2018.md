@@ -1,8 +1,7 @@
 - - - -
 # **Index**
 - [Introduction](#introduction)
-- [God of War 2018](#god-of-war-2018)
--[Combat](#combat)
+
 - [Glitches & Tricks](#glitches--tricks)
   - [Glitches](#glitches)
   - [Tricks](#tricks)
