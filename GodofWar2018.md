@@ -24,7 +24,8 @@ In this section you'll find everything you need to start speedrunning this game,
 
 ### **Gliches & Tricks**
 
-![video](https://youtube.com/clip/UgkxtjJIuF0Qu2ZqERW8THClyX68DEp5J26K)
+[![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t=30)
+
 
 #### *Glitches*
 
