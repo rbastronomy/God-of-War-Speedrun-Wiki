@@ -64,7 +64,9 @@ Helheim Raven Skip
 Valkyrie Out of Bounds
 - Sometimes the valkyries can fly away of the arena and get stuck leaving you in a softlock, sometimes the valkyrie dies too (it's very rare and more common in sigrun's fight)
 
-
+[![Video](https://clips-media-assets2.twitch.tv/vod-9876543210-offset-1234567890-preview-260x147.jpg)](https://clips.twitch.tv/JollyCallousCobblerDBstyle-nC-hAyOVHQ-6DEFl)
+Helheim Boat Out of Bounds
+- If you're close the mini-bridge to unstuck the boat and you're in the right position you can get out of bounds and fall but the consecuence it's that you lose around 3-6 minutes because you'll have to start again the boat travel.
 
 
 
