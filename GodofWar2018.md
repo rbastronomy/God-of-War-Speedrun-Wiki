@@ -45,10 +45,15 @@ Hel's Touch Runic Attack tutorial glitch. Found by: greembic
 
 ## *Tricks*
 
+[![Video](https://img.youtube.com/vi/_FHilpLgjCA/0.jpg)](https://www.youtube.com/watch?v=_FHilpLgjCA)
+Third Apple health Nornir Chest Strat
+- This trick is for New Game only, in this section of the game you can even skip this boss by simply going forward and continue the run, after skipping the cutscene you can go back to grab the Nornir chest without any problem because the boss will be in a "idle" so it won't interfere with the process but be careful not being close to the boss because it will trigger again and you'll have to do the process again so you can open the Nornir Chest.
+
 [![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t)
 
 Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
+
 
 [![Video](https://clips-media-assets2.twitch.tv/AT-cm%7C123456789%7CADventurousPleasantSowNerfRedBlaster-V0F-HUL_u0cEdXL0-preview-260x147.jpg)](https://www.twitch.tv/rb_astronomy/clip/AdventurousPleasantSowNerfRedBlaster-V0F-HUL_u0cEdXL0?filter=clips&range=7d&sort=time)
 
@@ -75,15 +80,18 @@ First Troll Fight (Hardest Difficulty)
 Helheim Raven Skip
 - A raven skip that you can do in Helheim early in the game instead of going back later to.
 
+
 [![Video](https://img.youtube.com/vi/v-CG-JLwQ-E/0.jpg)](https://www.youtube.com/watch?v=v-CG-JLwQ-E&t=75)
 
 Valkyrie Out of Bounds
 - Sometimes the valkyries can fly away of the arena and get stuck leaving you in a softlock, sometimes the valkyrie dies too (it's very rare and more common in sigrun's fight)
 
+
 [![Video](https://clips-media-assets2.twitch.tv/vod-9876543210-offset-1234567890-preview-260x147.jpg)](https://clips.twitch.tv/JollyCallousCobblerDBstyle-nC-hAyOVHQ-6DEFl)
 
 Helheim Boat Out of Bounds
 - If you're close the mini-bridge to unstuck the boat and you're in the right position you can get out of bounds and fall but the consecuence it's that you lose around 3-6 minutes because you'll have to start again the boat travel.
+
 
 [![Video](https://img.youtube.com/vi/hXibD9CZtf4/0.jpg)](https://www.youtube.com/watch?v=hXibD9CZtf4)
 
