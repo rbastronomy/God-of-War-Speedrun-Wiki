@@ -3,7 +3,7 @@
 # **Index**
 - [Introduction](#introduction)
 
-- [Glitches & Tricks](#glitches--tricks)
+- [Glitches & Tricks](#glitches-&-Tricks)
   - [Glitches](#glitches)
   - [Tricks](#tricks)
   - [Miscellaneous](#miscellaneous)
