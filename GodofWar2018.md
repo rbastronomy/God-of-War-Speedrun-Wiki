@@ -56,6 +56,9 @@ First Troll Fight (Hardest Difficulty)
 
 #### *Miscellaneous*
 
+[![Video](https://img.youtube.com/vi/MzmW4BiNMto/0.jpg)](https://www.youtube.com/watch?v=MzmW4BiNMto&t=45)
+Helheim Raven Skip
+- A raven skip that you can do in Helheim early in the game instead of going back later to.
 
 
 
