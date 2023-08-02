@@ -50,7 +50,10 @@ Hel's Touch Runic Attack tutorial glitch. Found by: greembic
 Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
 
+[![Video](https://clips-media-assets2.twitch.tv/AT-cm%7C123456789%7CADventurousPleasantSowNerfRedBlaster-V0F-HUL_u0cEdXL0-preview-260x147.jpg)](https://www.twitch.tv/rb_astronomy/clip/AdventurousPleasantSowNerfRedBlaster-V0F-HUL_u0cEdXL0?filter=clips&range=7d&sort=time)
 
+Climbing Sword Skip
+- For this particular case the consistency for this trick is unknown but at least is real and possible to replicate just have to aim correctly between the wall and the kick interaction so kratos can climb the wall and skip the sword climbing animation.
 
 
 
