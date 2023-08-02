@@ -6,6 +6,7 @@
 - [Glitches & Tricks](#glitches-&-Tricks)
   - [Glitches](#glitches)
   - [Tricks](#tricks)
+  - [Bosses](#bosses)
   - [Miscellaneous](#miscellaneous)
   
 - [Options](#options)
