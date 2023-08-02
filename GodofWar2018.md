@@ -46,7 +46,7 @@ Brook's bridge skip
 
 #### *Bosses*
 
-[![Video](https://youtu.be/-E1-Cema3-Y.jpg)](https://youtu.be/-E1-Cema3-Y?t=436)
+[![Video](https://img.youtube.com/vi/-E1-Cema3-Y.jpg)](https://youtu.be/-E1-Cema3-Y?t=436)
 
 First Troll Fight (Hardest Difficulty)
 - You can use the same strategy as the video above, but you'll have to be more careful with the troll's attacks to dodge correctly and not get hit.
