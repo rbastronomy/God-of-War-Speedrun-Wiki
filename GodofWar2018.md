@@ -20,6 +20,8 @@
 ## Introduction
 In this section you'll find everything you need to start speedrunning this game or anything related to the game itself. 
 
+if the image or "preview" is not moving try clicking the tumbnail and it will redirect you to a youtube/twitch video.
+
 
 ## God of War 2018
 
@@ -32,8 +34,10 @@ In this section you'll find everything you need to start speedrunning this game 
 
 #### *Tricks*
 
-Brook's bridge skip
+
 [![Video](https://img.youtube.com/vi/-cFgVI8NfD4/0.jpg)](https://www.youtube.com/watch?v=-cFgVI8NfD4&t=30)
+
+Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
 
 #### *Miscellaneous*
