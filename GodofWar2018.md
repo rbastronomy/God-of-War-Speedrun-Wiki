@@ -42,7 +42,19 @@ Helheim Interact mini skip
 Brook's bridge skip
 - Brok's bridge skip allows you to skip the dialogue of brok by simply trowing the axe high in the air and walking towards him enabling the "skip cutscene" trigger.
 
+
+#### *Bosses*
+
+[![video](https://youtu.be/-E1-Cema3-Y?t)](https://youtu.be/-E1-Cema3-Y?t=434)
+First Troll Fight (Hardest Difficulty)
+You can use the same strategy as the video above, but you'll have to be more careful with the troll's attacks to dodge correctly and not get hit.
+
+
+
+
 #### *Miscellaneous*
+
+
 
 
 
