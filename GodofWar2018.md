@@ -68,18 +68,22 @@ First Troll Fight (Hardest Difficulty)
 ## *Miscellaneous*
 
 [![Video](https://img.youtube.com/vi/MzmW4BiNMto/0.jpg)](https://www.youtube.com/watch?v=MzmW4BiNMto&t=45)
+
 Helheim Raven Skip
 - A raven skip that you can do in Helheim early in the game instead of going back later to.
 
 [![Video](https://img.youtube.com/vi/v-CG-JLwQ-E/0.jpg)](https://www.youtube.com/watch?v=v-CG-JLwQ-E&t=75)
+
 Valkyrie Out of Bounds
 - Sometimes the valkyries can fly away of the arena and get stuck leaving you in a softlock, sometimes the valkyrie dies too (it's very rare and more common in sigrun's fight)
 
 [![Video](https://clips-media-assets2.twitch.tv/vod-9876543210-offset-1234567890-preview-260x147.jpg)](https://clips.twitch.tv/JollyCallousCobblerDBstyle-nC-hAyOVHQ-6DEFl)
+
 Helheim Boat Out of Bounds
 - If you're close the mini-bridge to unstuck the boat and you're in the right position you can get out of bounds and fall but the consecuence it's that you lose around 3-6 minutes because you'll have to start again the boat travel.
 
 [![Video](https://img.youtube.com/vi/hXibD9CZtf4/0.jpg)](https://www.youtube.com/watch?v=hXibD9CZtf4)
+
 Hraezlyr Bug Fight
 - Hraezlyr can send you high in the sky if you're in the right position, so far it's not known if this has any potential to skip this part of the game/fight
 
