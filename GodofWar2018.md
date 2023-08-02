@@ -24,7 +24,7 @@ In this section you'll find everything you need to start speedrunning this game,
 
 ### **Gliches & Tricks**
 
-![video](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/2023-08-01%2020-12-33.mp4)
+![image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/2023-08-01%2020-12-33.mp4)
 #### *Glitches*
 
 #### *Tricks*
