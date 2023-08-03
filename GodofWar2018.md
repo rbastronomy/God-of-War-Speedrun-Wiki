@@ -5,21 +5,21 @@
 
 - [Glitches & Tricks](#glitches-&-Tricks)
   - [Glitches](#Glitches)
-  - [Tricks](##Tricks)
-  - [Bosses](##Bosses)
-  - [Miscellaneous](##Miscellaneous)
+  - [Tricks](#Tricks)
+  - [Bosses](#Bosses)
+  - [Miscellaneous](#Miscellaneous)
 
 - [Hardware](#Hardware)
-  - [Load Times](##Load-Times)
+  - [Load Times](#Load-Times)
 
 - [Options](#Options)
-    - [Gameplay](##Gameplay)
-    - [HUD](##HUD)
-    - [Camera](##Camera)
-    - [Audio](##Audio)
-    - [Video](##Video)
-    - [Photo Mode](##Photo-mode)
-    - [Accessibility](##Accessibility)
+    - [Gameplay](#Gameplay)
+    - [HUD](#HUD)
+    - [Camera](#Camera)
+    - [Audio](#Audio)
+    - [Video](#Video)
+    - [Photo Mode](#Photo-mode)
+    - [Accessibility](#Accessibility)
 - - - -
 # Introduction
 In this section you'll find everything you need to start speedrunning this game or anything related to the game itself. 
