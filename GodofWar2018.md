@@ -4,7 +4,7 @@
 - [Introduction](#introduction)
 
 - [Glitches & Tricks](#glitches-&-Tricks)
-  - [Glitches](##*Glitches*)
+  - [Glitches](#Glitches)
   - [Tricks](##Tricks)
   - [Bosses](##Bosses)
   - [Miscellaneous](##Miscellaneous)
