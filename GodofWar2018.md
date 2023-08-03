@@ -1,4 +1,4 @@
-![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gow2018.jpg)
+![Image of header](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/images/gow2018.webp)
 - - - -
 # **Index**
 - [Introduction](#introduction)
