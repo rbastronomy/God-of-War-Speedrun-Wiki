@@ -10,7 +10,7 @@
   - [Miscellaneous](##Miscellaneous)
 
 - [Hardware](#Hardware)
-  - [Console](##Console)
+  - [Load Times](##Load-Times)
 
 - [Options](#Options)
     - [Gameplay](##Gameplay)
