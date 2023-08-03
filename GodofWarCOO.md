@@ -9,15 +9,3 @@
   - [Bosses](##Bosses)
   - [Miscellaneous](##Miscellaneous)
 
-- [Hardware](#Hardware)
-  - [Console](##Console)
-
-- [Options](#Options)
-    - [Gameplay](##Gameplay)
-    - [HUD](##HUD)
-    - [Camera](##Camera)
-    - [Audio](##Audio)
-    - [Video](##Video)
-    - [Photo Mode](##Photo-mode)
-    - [Accessibility](##Accessibility)
-- - - -
