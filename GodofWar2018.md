@@ -49,6 +49,7 @@ Hel's Touch Runic Attack tutorial glitch. Found by: greembic
 ## *Tricks*
 
 [![Video](https://img.youtube.com/vi/_FHilpLgjCA/0.jpg)](https://www.youtube.com/watch?v=_FHilpLgjCA)
+
 Third Apple health Nornir Chest Strat
 - This trick is for New Game only, in this section of the game you can even skip this boss by simply going forward and continue the run, after skipping the cutscene you can go back to grab the Nornir chest without any problem because the boss will be in a "idle" so it won't interfere with the process but be careful not being close to the boss because it will trigger again and you'll have to do the process again so you can open the Nornir Chest.
 
