@@ -22,7 +22,7 @@ This repository will be only to save information and guides regarding the games 
 # Speedrunning Resources
 
 ## Greek Mythology
-- [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/Gow2005/GodofWar2005.md)
+- [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
 - [God of War II 2007](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
 - [God of War III 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2010.md)
 - [God of War: Ascension 2013](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
