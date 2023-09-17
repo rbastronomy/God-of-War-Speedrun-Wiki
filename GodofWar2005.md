@@ -2705,7 +2705,7 @@ See the level-by-level specifics for the final boss fight.
 
 
 
-4. Glitch playthrough (level-specific glitches)
+# Glitch playthrough
 -----------------------------------------------
 
 Different categories are these:
