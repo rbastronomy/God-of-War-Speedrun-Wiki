@@ -13,8 +13,8 @@ See the end of file for more information.
 
 # Contents:
 - [Contents](#Contents)
-  - [Introduction](#Introduction)
-  - [Abbrevations & glossary](#Abbrevations-&-glossary)
+  - [Introduction](#Introduction-+-version-history)
+  - [Abbrevations & glossary](#Abbreviations-&-glossary)
   - [General gameplay glitches](#General-gameplay-glitches)
   - [Glitch playthrough (level-specific glitches)](#Glitch-playthrough)
   - [Misc. info and some listings](#Misc)
