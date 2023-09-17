@@ -23,8 +23,8 @@ This repository will be only to save information and guides regarding the games 
 
 ## Greek Mythology
 
-### God of war 
-- [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
+### God of war 2005
+- [God of War Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
     - [Any% NG+ Tutorial by Rixer](https://youtu.be/RVb_RLRCIuo)
     - [Any% NG+ Tutorial by Exe](https://youtu.be/onfHKWQTg7M)
     - [First spike pillar pattern by Rixer](https://youtu.be/iLHnnfec3kQ)
