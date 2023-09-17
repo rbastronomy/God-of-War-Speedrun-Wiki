@@ -22,8 +22,18 @@ This repository will be only to save information and guides regarding the games 
 # Speedrunning Resources
 
 ## Greek Mythology
+
+### God of war 
 - [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
+    -[Any% NG+ Tutorial by Rixer](https://youtu.be/RVb_RLRCIuo)
+    -[Any% NG+ Tutorial by Exe](https://youtu.be/onfHKWQTg7M)
+    -[First spike pillar pattern by Rixer](https://youtu.be/iLHnnfec3kQ)
+    -[Second spike pillar pattern by Ragnell](https://youtu.be/EowQTzeWOMg)
+
+### God of war II
 - [God of War II 2007](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
+
+
 - [God of War III 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2010.md)
 - [God of War: Ascension 2013](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
 - [God of War: Chains of Olympus 2008](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarCOO.md)
