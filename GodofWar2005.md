@@ -12,11 +12,11 @@ See the end of file for more information.
 - - - -
 
 # Contents:
-- Contents
-  - [Introduction](#Introducion)
-  - [Abbrevations & glossary](#Abbrevations&glossary)
-  - [General gameplay glitches](#Generalgameplayglitches)
-  - [Glitch playthrough (level-specific glitches)](#Glitchplaythrough)
+- [Contents](#Contents)
+  - [Introduction](#Introduction)
+  - [Abbrevations & glossary](#Abbrevations-&-glossary)
+  - [General gameplay glitches](#General-gameplay-glitches)
+  - [Glitch playthrough (level-specific glitches)](#Glitch-playthrough)
   - [Misc. info and some listings](#Misc)
   - [Credits, legal information, contact info, etc.](#Credits)
 
