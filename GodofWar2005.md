@@ -124,7 +124,7 @@ something new in it.
 
 ---------------------------
 
-# Abbreviations-&-glossary
+# Abbreviations and glossary
 
 Abbreviations: (the most common ones)
 
@@ -6516,7 +6516,7 @@ Videos:
 
 
 
-# Misc. info
+# Misc
 -------------
 
 "In-game timer"
@@ -6539,7 +6539,7 @@ During in-game cutscenes time does run.
 
 
 
-# Credits, legal information, contact info, etc.
+# Credits
 -------------------------------------------------
 
 ====================================
