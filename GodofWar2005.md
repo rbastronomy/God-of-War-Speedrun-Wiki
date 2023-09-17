@@ -91,7 +91,7 @@ v. 1.0. (23. 3. 2008)
 
 
 # Introduction
-# + version history
+
 ---------------------------------
 
 Q: Why write a glitch FAQ?
@@ -124,7 +124,7 @@ something new in it.
 
 ---------------------------
 
-# Abbreviations & glossary
+# Abbreviations-&-glossary
 
 Abbreviations: (the most common ones)
 
