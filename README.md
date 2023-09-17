@@ -7,6 +7,17 @@ This repository will be only to save information and guides regarding the games 
 **God of War Speedrunning Discord (English):** https://discord.gg/RM8S7J8
 
 **God of War Speedrunning Discord (Portuguese):** https://discord.gg/CHHAQZeZp7
+
+LEADERBOARDS:
+- God of War series: https://speedrun.com/god_of_war
+- GoW1: https://speedrun.com/gow
+- GoW2: https://speedrun.com/gow2
+- GoW Betrayal: https://speedrun.com/gow_betrayal
+- GoW Chains of Olympus: https://speedrun.com/gowcoo
+- GoW3: https://speedrun.com/gow3
+- GoW Ghost of Sparta: https://speedrun.com/gowgos
+- GoW Ascension: https://speedrun.com/gowa
+- GoW (2018): https://speedrun.com/gow2018
 - - - -
 ## Greek Mythology
 - [God of War 2005](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
