@@ -25,10 +25,10 @@ This repository will be only to save information and guides regarding the games 
 
 ### God of war 2005
 - [God of War Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
-- [Any% NG+ Tutorial by Rixer](Video)(https://youtu.be/RVb_RLRCIuo)
-- [Any% NG+ Tutorial by Exe](https://youtu.be/onfHKWQTg7M)
-- [First spike pillar pattern by Rixer](https://youtu.be/iLHnnfec3kQ)
-- [Second spike pillar pattern by Ragnell](https://youtu.be/EowQTzeWOMg)
+- [Any% NG+ Tutorial by Rixer(video)](https://youtu.be/RVb_RLRCIuo)
+- [Any% NG+ Tutorial by Exe(video)](https://youtu.be/onfHKWQTg7M)
+- [First spike pillar pattern by Rixer(video)](https://youtu.be/iLHnnfec3kQ)
+- [Second spike pillar pattern by Ragnell(video)](https://youtu.be/EowQTzeWOMg)
 
 ### God of war II
 - [God of War II 2007](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
