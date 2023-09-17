@@ -16,7 +16,7 @@ See the end of file for more information.
   - [Introduction](#Introduction)
   - [Abbreviations & glossary](#Abbreviations-&-glossary)
   - [General gameplay glitches](#General-gameplay-glitches)
-  - [Glitch playthrough (level-specific glitches)](#Glitch-playthrough)
+  - [Glitch playthrough (level-specific glitches)](#Glitch-playthrough-(level-specific-glitches))
   - [Misc. info and some listings](#Misc)
   - [Credits, legal information, contact info, etc.](#Credits)
 
