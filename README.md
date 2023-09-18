@@ -41,7 +41,7 @@ This repository will be only to save information and guides regarding the games 
 - [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
 
 ### God of war Chains of Olympus 2008
-- [God of War: Chains of Olympus 2008](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarCOO.md)
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarCOO.md)
 
 ### God of war Ghost of Sparta 2010
 - [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarGOS.md)
