@@ -24,21 +24,30 @@ This repository will be only to save information and guides regarding the games 
 ## Greek Mythology
 
 ### God of war 2005
-- [God of War Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
 - [Any% NG+ Tutorial by Rixer (video)](https://youtu.be/RVb_RLRCIuo)
 - [Any% NG+ Tutorial by Exe (video)](https://youtu.be/onfHKWQTg7M)
 - [First spike pillar pattern by Rixer (video)](https://youtu.be/iLHnnfec3kQ)
 - [Second spike pillar pattern by Ragnell (video)](https://youtu.be/EowQTzeWOMg)
 
-### God of war II
-- [God of War II 2007](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
+### God of war II 2007
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2007.md)
 
 
-- [God of War III 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2010.md)
-- [God of War: Ascension 2013](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
+### God of war III 2010
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2010.md)
+
+### God of war Ascension 2013
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarAscension.md)
+
+### God of war Chains of Olympus 2008
 - [God of War: Chains of Olympus 2008](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarCOO.md)
-- [God of War: Ghost of Sparta 2010](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarGOS.md)
+
+### God of war Ghost of Sparta 2010
+- [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarGOS.md)
+
 
 ## Norse Mythology
+
 - [God of War 2018](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2018.md)
 - [God of War Ragnarok](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWarRagnarok.md)
