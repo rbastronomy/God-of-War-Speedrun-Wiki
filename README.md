@@ -21,7 +21,7 @@ This repository will be only to save information and guides regarding the games 
 - - - -
 # Speedrunning Resources
 
-## Greek Mythology
+# Greek Mythology
 
 ### God of war 2005
 - [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2005.md)
@@ -62,7 +62,7 @@ This repository will be only to save information and guides regarding the games 
 
 
 
-## Norse Mythology
+# Norse Mythology
 
 ### God of war 2018
 - [Glitch FAQ](https://github.com/rbastronomy/God-of-War-Speedrun-Wiki/blob/main/GodofWar2018.md)
