@@ -16,7 +16,7 @@ See the end of the file for more info.
 # Table of contents & version history
 - Table of contents & version history
   - [Introduction](#Introduction)
-  - [General glitches, tricks and bugs](#General-glitches,-tricks-and-bugs)
+  - [General glitches tricks and bugs](#General-glitches-tricks-and-bugs)
   - [General info on Kratos and enemies](#General-info-on-Kratos-and-enemies)
   - [Level by level glitch walkthrough](#Level-by-level-glitch-playthrough)
   - [Credits](#Credits)
@@ -229,7 +229,7 @@ Videos:
 
 
 
-# General glitches, tricks and bugs
+# General glitches tricks and bugs
 ------------------------------------
 
 A. Major tricks
