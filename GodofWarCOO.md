@@ -20,8 +20,8 @@ See the end of the file for more info.
 - [Credits](#Credits)
 
 
-
-#Version information:
+- - - -
+# Version information:
 
 v. 0.82 (29. 1. 2014)
 + fixed little things here and there
