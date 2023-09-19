@@ -13,7 +13,7 @@ See the end of the file for more info.
 ---------------------
 
 - [Version information](#Version-information)
-- [Abbreviations and glossary](#Abbreviations-and-glossay)
+- [Abbreviations and glossary](#Abbreviations-and-glossary)
 - [General glitches and tricks](#General-glitches-and-tricks)
 - [Enemy glitches](#Enemy-glitches)
 - [Glitch walkthrough](#Glitch-walkthrough)
