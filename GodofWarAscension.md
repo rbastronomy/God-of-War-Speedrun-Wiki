@@ -13,7 +13,7 @@ Written and partially discovered by AKheon
 
 
 - [Introduction](#Introduction)
-- [Basic techniques](#Basic-thecniques)
+- [Basic techniques](#Basic-techniques)
 - [Weapon and move info](#Weapon-and-move-info)
 - [Other general glitches and observations](#Other-general-glitches-and-observations)
 - [Level glitches](#Level-glitches)
