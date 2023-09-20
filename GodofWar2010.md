@@ -16,7 +16,7 @@ See the end of the file for more info.
 - [Version history](#Version-history)
 - [Introduction](#Introduction)
 - [General glitches and tricks](#General-glitches-and-tricks)
-- [Glitch walkthrough](#Glitch walkthrough)
+- [Glitch walkthrough](#Glitch-walkthrough)
 - [Credits](#Credits)
 
 - - - -
