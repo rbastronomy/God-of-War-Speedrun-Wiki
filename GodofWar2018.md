@@ -84,17 +84,20 @@ Hraezlyr Bug Fight
 
 
 ## *Miscellaneous*
+### *Enchantments*
 
-[![Video](https://img.youtube.com/vi/MzmW4BiNMto/0.jpg)](https://www.youtube.com/watch?v=MzmW4BiNMto&t=45)
+Enchantments play a crucial role in the speedrun of God of War 2018. They provide various bonuses and effects that can significantly enhance your gameplay. Here are some notable enchantments and their useful applications in speedruns.
 
-Helheim Raven Skip
-- A raven skip that you can do in Helheim early in the game instead of going back later to.
+1. **Amulet of Kvasir**: This enchantment grants you the ability to dodge enemy attacks in slow motion when you perfectly time your dodge. It can be particularly useful in boss fights and challenging combat encounters, allowing you to evade attacks with precision and maintain a fast-paced gameplay.
 
+2. **Talisman of Unbound Potential**: This enchantment increases your runic attack damage and reduces the cooldown time of runic summons. It can greatly enhance your offensive capabilities, allowing you to deal more damage to enemies and quickly recharge your runic abilities for consecutive attacks.
 
-[![Video](https://img.youtube.com/vi/v-CG-JLwQ-E/0.jpg)](https://www.youtube.com/watch?v=v-CG-JLwQ-E&t=75)
+3. **Blightguard**: This enchantment provides resistance against poison and increases your resistance to all status effects. It can be beneficial in areas with poisonous hazards or enemies that inflict status effects, allowing you to navigate through them more efficiently without being hindered by negative effects.
 
-Valkyrie Out of Bounds
-- Sometimes the valkyries can fly away of the arena and get stuck leaving you in a softlock, sometimes the valkyrie dies too (it's very rare and more common in sigrun's fight)
+4. **Heart of Vanaheim**: This enchantment increases your resistance to all elemental damage. It can be particularly useful in encounters with enemies that heavily rely on elemental attacks, such as fire or ice, providing you with added protection and reducing the impact of their damage.
+
+5. **Ivaldi's Corrupted Mind**: This enchantment increases your resistance to all status effects and grants a chance to inflict weakness on enemies when hit. It can be advantageous in combat situations where enemies frequently apply status effects, as it reduces their effectiveness and allows you to exploit their weaknesses for faster takedowns.
+
 
 
 [![Video](https://clips-media-assets2.twitch.tv/vod-9876543210-offset-1234567890-preview-260x147.jpg)](https://clips.twitch.tv/JollyCallousCobblerDBstyle-nC-hAyOVHQ-6DEFl)
