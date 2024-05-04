@@ -8,7 +8,7 @@
   - [Tricks](#Tricks)
   - [Bosses](#Bosses)
   - [Miscellaneous](#Miscellaneous)
-    -[Enchantments](#Enchantments)
+      -[Enchantments](#Enchantments)
 
 - [Hardware](#Hardware)
   - [Load Times](#Load-Times)
