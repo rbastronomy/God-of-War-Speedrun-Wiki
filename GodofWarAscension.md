@@ -7,7 +7,6 @@ Based on the God of War: Ascension glitch FAQ v.1.3 that was completed in 9.10.2
 
 
 # Table of Contents
---------------------------
 
 
 - [Introduction](#Introduction)
@@ -52,7 +51,7 @@ It's about time God of War: Ascension got its own Glitch FAQ. So what is a Glitc
 Note: this guide concerns single player only, and most of the things in it have been tested and tried only on the unpatched version. Things may vary in unforeseen ways if you've patched your game.
 
 
-## Abbreviations:
+## Abbreviations
 
 NG = New Game
 NG+ = New Game+
@@ -61,7 +60,7 @@ c: = credits to
 § = note to self / to be re-written or verified
 
 
-## Glossary:
+## Glossary
 
 air momentum = air momentum refers to how much vertical or horizontal velocity Kratos has when he is in air. For instance, he has the best possible vertical air momentum at the start of a double jump when he is still rising upwards and bad vertical air momentum when he starts losing height and falls down. Understanding air momentum is important if you want to perform effective high jumps in this game.
 
@@ -108,7 +107,7 @@ Videos:
         https://www.youtube.com/watch?v=uz4SY1LW0Gc
 
 
-## "Unarmed Jump"
+## Unarmed Jump
 
 Unarmed Jump is a very basic high jump that can be done from the start of the game. For some reason the Unarmed air attack reacts to Kratos' current air momentum quite strongly. So if you do this attack right after double jumping, when your vertical air momentum is at its highest, Kratos will fly in a surprisingly high arc through the air. This is already enough to go over some low walls around the game.
 
@@ -125,7 +124,7 @@ You can remove the cooldown when landing from Unarmed Jump by pressing R1 (doing
 This jump is mostly obsoleted by Shield Jump as soon as you manage to grab a Shield for Kratos in Chapter 7.
 
 
-## "Shield Jump"
+## Shield Jump
 
 The Shield Jump is a basic but very effective high jump technique. The Shield air attack is basically the same as the Unarmed air attack, except with steroids. It's even more reactive to Kratos' current momentum and is therefore better for both high jumping and long jumping.
 
@@ -140,7 +139,7 @@ Videos:
         https://www.youtube.com/watch?v=sSDUB7Oz8fs
 
 
-## "Shield Discard Jump" (c: AKheon)
+## Shield Discard Jump (c: AKheon)
 
 If you discard your Shield in air, then press circle during the discard animation, Kratos buffers an unloaded Shield air attack where his air momentum stays fixed for a few seconds. This means that any positive air momentum you have also becomes locked for a few seconds, allowing you to fly upward in air a decent length. Afterwards, you can start spamming Unarmed air attacks to make the jump even longer.
 
@@ -201,7 +200,7 @@ Videos:
 	https://www.youtube.com/watch?v=BETul0cjNnI
 
 
-## "Upgrade Jump"(c: findlestick)
+## Upgrade Jump (c: findlestick)
 
 For some reason, certain upgrades force the game to reload the data for Kratos' current world weapon. This means that for a second or two, Kratos is in a state where he has a world weapon but it doesn't have any animation data available, and therefore all its attacks lack most of their normal properties. Any attack that is currently in progress will interrupt, returning Kratos to a neutral t-pose. Any new attacks that are buffered have no animation properties and basically look like Kratos standing in place and grunting with (usually) no other discernible effects.
 
@@ -214,7 +213,7 @@ A less obvious limitation is that this loophole is level-specific. You see, in a
 As for instructions for Upgrade jump... well, the whole mechanism behind this jump is to some extent unknown. The easiest way to enable this jump on a New Game playthrough is to not upgrade anything except Blades to lv. 3. A break-out happens if you then upgrade Blades to lv. 4 and quickly exit the menu. Other upgrades or upgrade combinations may cause it to happen too, but this hasn't been tested systematically.
 
 
-## "Sky Jump" (c: findlestick)
+## Sky Jump (c: findlestick)
 
 Being able to break out of world weapon attacks in air is convenient, but the real power of Upgrade Jump can only be unleashed using the Shield with a so-called "Sky Jump". The air attack of Shield has very peculiar properties and it gives a massive boost to Kratos' vertical velocity. If you use the upgrading loop-hole to do an unloaded Shield air attack, Kratos will quickly ascend in air during the few seconds all of his momentum is fixed. Afterwards, he even returns completely neutral, allowing him to grab ledges or use his double jump, resulting in what is for most intents and purposes THE most powerful and versatile high jump tactic in the entire game.
 
@@ -435,7 +434,7 @@ Unfortunately, you can never move puzzle objects or enemies too far from their o
 If Kratos is on top of the movable object that he moves with this bug, both he and the object gain a massive speed boost and fly off into lands unknown. The coal pot at The Furnace is the best object for testing this with.
 
 
-### Some observations and limitations regarding stale reference bugs:
+### Some observations and limitations regarding stale reference bugs
 
 - grapple point prompts can't be used as a stale reference.
 - a world weapon prompt normally can't be used as a stale reference since it disappears when the weapon is picked up. However, the prompt can be accessed as a stale reference if you break out of the prompt in a way that it stays on the screen afterwards.
@@ -473,7 +472,7 @@ This is a far less common way to do a stale reference gltch, and it's completely
 Doing tethers against wrong targets usually makes Kratos do a generic throwing animation against an invisible target while the target itself gets moved to Kratos' location, if possible. Sadly, no seriously interesting results have been discovered with a tether stale reference so far, even though it seems like a powerful glitch idea. But testing hasn't been entirely systematic as of yet.
 
 
-#### List of enemies that create a tether stale reference:
+#### List of enemies that create a tether stale reference
 
 - Any frozen Bug enemy that is hit with ground tether.
 - Any frozen Hound enemy that is hit with ground or air tether. This includes the parasite-infected Bug-Hounds in Chapter 3.
@@ -547,7 +546,7 @@ Videos:
         https://www.youtube.com/watch?v=dXiECGTc1FE
 
 
-### Consecutive break-outs:
+### Consecutive break-outs
 
 One interesting thing about break-outs is that if you do a new action right at the moment of break-out, Kratos breaks out of that one too. So you can extend the breaking out effect from Shield attacks to pretty much any other attacks, or even dedicated animations like pulling switches or cutscenes with careful timing.
 
@@ -556,7 +555,7 @@ Instructions: for switches and other R1-prompts, have Kratos stand still next to
 Unfortunately, cutscene and prompt break-outs aren't that promising in this game because more often than not time is stopped during any prompt use sequence. So, even though Kratos breaks free, you still don't regain control and therefore don't benefit from it. Trying to break out of important story cutscenes like meeting Oracle can also lead to a crash, so that's also a drawback.
 
 
-### Other notes and limitations regarding break-outs:
+### Other notes and limitations regarding break-outs
 
 Like in God of War II, breaking out in conjunction to using grapple points tends to crash the game.
 
@@ -677,7 +676,7 @@ Videos:
 
 # Weapon and move info
 
-## General moves:
+## General moves
 
 The developers did a major reworking on the jumping and air mechanics in Ascension. Most noticeable differences are...
 
@@ -697,7 +696,7 @@ The Hyperion Ram can react glitchily when done against damaging collision, makin
 
 
 
-### Vanishing Blades bug:
+### Vanishing Blades bug
 
 Rarely Kratos' Blades may disappear entirely. He can still do basic combos, but there are no Blades that would contact with enemies and damage them. Sub-weapons still seem to work like normal, though, even though they look invisible.
 
@@ -708,7 +707,7 @@ Videos:
         https://www.youtube.com/watch?v=5haAFn9L8Ig
 
 
-### Tether observations:
+### Tether observations
 
 There are two versions of air Tether: the normal version where Kratos targets and hits a foe to grab them, and also a "passive tether" which Kratos does if he is neutral in air and there are no targets nearby. Passive tether lasts about a second, and it can become overlapped with other air actions, although it should be noted that not many air actions are enabled during a passive tether - mainly the Unarmed air attack and various Rage-actions. Kratos breaks out of anything when he lands on ground while doing passive tether. There was more about this glitch ("tether break-out") in the techniques-section above.
 
@@ -719,7 +718,7 @@ Opening a chest while ground passive tether is active causes the "fast chest ope
 If you're slightly outside a grabbable enemy's range and try to do air tether, Kratos will instead do a passive air tether. If you then do air Ice Rage, Kratos will instead do a regular air tether instead of Ice Rage, or at least something that looks like it. This can happen with other Rage-attacks too, but Ice Rage is the easiest one.
 
 
-### Element observations:
+### Element observations
 
 The different elements don't impact Kratos' basic attacks too much. You mainly just get different special effects for each swipe as well as different combo finishers - one for the fourth square hit (s4) and one for the sixth (s6).
 
@@ -735,7 +734,6 @@ Tethering enemies near walls can sometimes give a big height boost for Kratos, b
 Videos:
 1, findlestick's vid of both mentioned things:
         https://www.youtube.com/watch?v=evYTq8zFSUM#t=142
-
 
 
 ## Elemental powers
@@ -756,7 +754,7 @@ Generally speaking, most elemental specials aren't very good in this game. The m
 There are a few ways to do elemental special attacks using the wrong element. This is mostly just a graphical effect - Kratos either does the special with wrong element graphics or two element graphics may combine, it depends a little on the attack.
 
 
-#### How to do wrong element attacks:
+#### How to do wrong element attacks
 
 - One fairly simple method for doing wrong element specials on ground level is to hold L1, then press d-pad to switch elements roughly at the same time as you press square or triangle. You can also do wrong element Magics this way, but Rages are too hard to time.
 
@@ -960,7 +958,7 @@ The green Amulet screen effect is known to become stuck when retrying from check
 Kratos enters a vaguely glitchy mode when you let go of Amulet aim on ground. For a few moments he cannot move but you can buffer attacks and even prompts. This lets you overlap actions with prompts, allowing a specific type of a break-out. There was more about it in the techniques-section.
 
 
-G. The Oath Stone of Orkos
+### G. The Oath Stone of Orkos
 
 Upgrading Oath Stone while Kratos is using it also causes a full break-out, forcing Kratos into t-pose momentarily.
 
@@ -971,17 +969,17 @@ Sometimes shadow Kratos glitches up and just stands still instead of attacking t
 The grapple switch version of using Oath Stone can be used without any cooldown. After all, its only purpose is to be used in puzzles. If you use grapple switch break-out to combine normal grounded state and a grapple switch, this input has such a high priority that it can cancel a surprising amount of ground actions, even magic or weapon discard attacks.
 
 
-H. Eyes of Truth
+### H. Eyes of Truth
 
 You get the Eyes of Truth really late in the game. So late that you only get to use it for a few puzzles, a fight or two and... that's it. It can't be upgraded either.
 
 
-## World weapons:
+## World weapons
 
 World weapons are a new mechanic in God of War: Ascension. Kratos can find weapon pick-ups around the levels, or he may also pick up weapons from enemies he disarms. These weapons are interchangeable and can't be upgraded in any way, and once you're done with a world weapon, you can discard it as an extra powerful finishing move.
 
 
-Some notes follow:
+#### Some notes follow
 
 - If Kratos has no world weapon, he uses an Unarmed move set instead.
 
@@ -1086,7 +1084,7 @@ Kratos' hitbox extends through the floor during a Shield air attack. If there is
 
 # Other general glitches and observations
  
-## Enemy-specific notes:
+## Enemy-specific notes
 
 There's no combat arena in Ascension, so I'm not 100% sure on the official enemy names.
 
@@ -1236,7 +1234,7 @@ Videos:
         https://youtu.be/g57GVc34LCk?t=135
 
 
-#### Chimera mini-game bug:
+#### Chimera mini-game bug
 
 Chimera is a special enemy that is normally intended to be defeated with a finishing QTE while it's stunned. However, if you deal damage to the Chimera while it's in a state where it cannot get stunned, for instance by leaving a Fire Rage bomb that explodes while you Ice Rage the boss, you skip its stunned/mini-game phase entirely. This will cause the Chimera to enter a glitched state where it continues fighting like usual, but it may randomly use attacks from its later phases, especially as a counter to some of Kratos' actions - for instance, it starts walking on two feet shooting ice balls while the snake tail that's supposed to be cut off at this point lacks an animation and is completely stiff. After damaging it enough, it becomes completely tame and simply starts following Kratos around the level while never doing more than a very light snake whip "counter" which cannot even hit Kratos. It cannot be frozen any longer after this point at all. Since it's also immune to damage, the fight is softlocked and you have to retry.
 
@@ -1254,7 +1252,7 @@ Videos:
 Rarely after retrying, Manticore may be airborne but stuck in an odd pose. This bug should end by itself in around 5 seconds.
 
 
-#### Manticore mini-game bug:
+#### Manticore mini-game bug
 
 Much like with Chimera, you can skip past the Manticore's mini-game sequences by taking its health down past the mini-game threshold while it's in a state where it cannot become stunned. The same setup of Fire Rage to Ice Rage works here too.
 
@@ -1290,9 +1288,9 @@ Videos:
 
 
 
-# Other notes:
+# Other notes
 
-## Checkpoints:
+## Checkpoints
 
 After retrying, you can start moving around a second before the screen becomes visible again. Unfortunately this time doesn't work out like "black-out time" from God of War 1, and you can't bypass cutscene triggers during it.
 
@@ -1305,7 +1303,7 @@ Videos:
         https://www.youtube.com/watch?v=hY5pTanmyMI#t=149
 
 
-## Chests:
+## Chests
 
 A simple way to speed up opening magic or health chests is to start opening them as Kratos is sheathing his sub-weapon. Once the sheathe animation is complete, the chest immediately pops open at least half a seconds faster than normal.
 
@@ -1316,7 +1314,7 @@ Trying to open chests in quick succession (using break-out glitch) can cause the
 If you have opened an Eye / Feather chest, then open Select-menu a little before the message shows up, the Eye / Feather-message may entirely disappear.
 
 
-## Cutscenes:
+## Cutscenes
 
 You can break-out of some cutscenes. However, time is stopped during most cutscenes, so breaking out is actually not all that useful. Kratos just stands idly as the cutscene happens and you can't control him.
 
@@ -1327,13 +1325,13 @@ If a checkpoint starts from a cutscene and the cutscene doesn't stop time, Krato
 Breaking out of story-intensive, "important" cutscenes like interactions between characters usually doesn't work out. If you try it, the game most likely crashes.
 
 
-## Death collision:
+## Death collision
 
 Rarely, for example during Chapter 8 and 30 autoscrollers, there is death collision that works in an unique way. You can enter the menus before the "You Are Dead" text has appeared, allowing you to do odd things like retry while dying - this causes a glitchy game over screen to appear after retry behind which gameplay continues as normal - or retry checkpoint and quit game at the 
 same time (but this is inadvisable since it crashes the game). So far the effects you can achieve with this glitch are not that useful.
 
 
-## Grapple points:
+## Grapple points
 
 Grapple points are a very high priority prompt in this game and interrupt almost every move Kratos has when activated. This includes magic, whose effects may glitch up if you interrupt them all of a sudden!
 
@@ -1345,12 +1343,12 @@ Videos:
         https://www.youtube.com/watch?v=5haAFn9L8Ig#t=139
 
 
-## HUD:
+## HUD
 
 There is a rare glitch where the HUD disappears from the game, along with subtitles, QTE-prompts and other text overlays that should appear on the screen. Needless to say, not being able to see any of the randomized QTE-prompts will make progress in the game extremely difficult. I've seen this glitch happen once in Chapter 30, but the exact reason for it remains unknown.
 
 
-## Menus:
+## Menus
 
 If you hold X to upgrade something but then switch pages in the menu, the upgrade sound loop will stay on indefinitely, even after leaving the menu. The sound is pretty annoying... but the glitch doesn't end there, you can go back into the menu and overlap the sound repeatedly! You can end the glitch by upgrading something again to end the sound loop naturally. Otherwise the sound stays on and won't end by itself.
 
@@ -1359,12 +1357,12 @@ Videos:
         https://www.youtube.com/watch?v=Oa8NVkKRDJY#t=59
 
 
-## Quick-time Events:
+## Quick-time Events
 
 Hard to say if it's a glitch or not, but in the early game many of the QTEs succeed even if you intentionally try to fail at them.
 
 
-## Slides:
+## Slides
 
 Those sliding sections are programmed in a slightly weird way, as detailed above in the "Poseidon Tremble speed glitch" and "Shield slide speed glitch" sections.
 
@@ -1373,7 +1371,7 @@ Passive tether overlaps with the slide and no break-out can happen. It seems upg
 If a checkpoint starts from a sliding section, it's sometimes possible to escape from it by rapidly pressing X upon retrying.
 
 
-## Mysteries and hypothetical glitches for future:
+## Mysteries and hypothetical glitches for future
 
 ### Data-less world weapons
 
@@ -1599,17 +1597,9 @@ Videos:
 
 Other: Guardhouse glitch
 
-Rarely this chapter can glitch up when entering it. You'll know it has happened 
-if the camera stays zoomed in on Kratos instead of zooming out to show the 
-whole yard. If you go pull the switch, the ladder descends and gate rise up 
-like normal - but there's no cutscene! Finally, pulling the crank and 
-activating the Cyclops fight also works, but no Cyclops spawns and you get 
-stuck.
+Rarely this chapter can glitch up when entering it. You'll know it has happened if the camera stays zoomed in on Kratos instead of zooming out to show the whole yard. If you go pull the switch, the ladder descends and gate rise up like normal - but there's no cutscene! Finally, pulling the crank and activating the Cyclops fight also works, but no Cyclops spawns and you get stuck.
 
-If you retry from last checkpoint you finally get the Cyclops to spawn. So in 
-other words, in certain circumstances this glitch would actually save time if 
-it could be done at will since you skip one cutscene. But then you have to 
-retry to finally load the Cyclops and continue playing.
+If you retry from last checkpoint you finally get the Cyclops to spawn. So in other words, in certain circumstances this glitch would actually save time if it could be done at will since you skip one cutscene. But then you have to retry to finally load the Cyclops and continue playing.
 
 Videos:
 1, AKheon's vid:
@@ -1619,14 +1609,10 @@ Videos:
 World weapon: there's a Sword lying in the Guardhouse yard.
 
 
-Random: you can activate the checkpoint on top of the small building early by 
-jumping there instead of using the switch and the ladder. So far this doesn't 
-seem to cause anything special to happen, though.
+Random: you can activate the checkpoint on top of the small building early by jumping there instead of using the switch and the ladder. So far this doesn't seem to cause anything special to happen, though.
 
 
-Out of bounds: you can go out of bounds at the Guardhouse building by trying to 
-jump around the roof's left-hand railing in a certain way. Kratos can land on 
-small stretch of ground there and walk some way out of bounds.
+Out of bounds: you can go out of bounds at the Guardhouse building by trying to jump around the roof's left-hand railing in a certain way. Kratos can land on small stretch of ground there and walk some way out of bounds.
 
 Videos:
 1, findlestick's vid
@@ -1634,49 +1620,33 @@ Videos:
 
 
 
-Wasted potential: the grapple switch becomes disabled during this fight, 
-preventing you from both using it early or doing Ice Rage glitch shenanigans 
-like potentially dropping the Cyclops out of bounds.
+Wasted potential: the grapple switch becomes disabled during this fight, preventing you from both using it early or doing Ice Rage glitch shenanigans like potentially dropping the Cyclops out of bounds.
 
 
-Speed strategy: you don't have to climb the ladder to reach the grapple point - 
-instead do a "slightly higher double jump" close to the higher platform to the 
-left where you'd normally latch onto the grapple point and Kratos can reach it 
-early. On NG+ you can use Poseidon Tremble to make this really easy.
+Speed strategy: you don't have to climb the ladder to reach the grapple point - instead do a "slightly higher double jump" close to the higher platform to the left where you'd normally latch onto the grapple point and Kratos can reach it early. On NG+ you can use Poseidon Tremble to make this really easy.
 
-But don't use the grapple point and jump to the other side too fast, because 
-otherwise the game can crash.
+But don't use the grapple point and jump to the other side too fast, because otherwise the game can crash.
 
 
 Other: if you retry after having activated the grapple point, the prompt of the grapple switch becomes visible again for some reason. But you can't pull it to any direction and it doesn't serve any purpose whatsoever.
 
 
-Other (NG+): you can do magic break-outs at the checkpoint after bursting 
-through the wall. Basically, just retry from the checkpoint and spam R2 and see 
-what happens. Ice or Lightning Magic causes Kratos to break out of the cutscene 
-for good, and it seems after that there's little else to do than promptly fall 
-to your death. Fire or Soul magic interrupts the cutscene for a few seconds 
-before returning Kratos safely into it, and things progress as normal.
+Other (NG+): you can do magic break-outs at the checkpoint after bursting through the wall. Basically, just retry from the checkpoint and spam R2 and see what happens. Ice or Lightning Magic causes Kratos to break out of the cutscene for good, and it seems after that there's little else to do than promptly fall to your death. Fire or Soul magic interrupts the cutscene for a few seconds before returning Kratos safely into it, and things progress as normal.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=dqOMKOW6szA#t=143
 
 
-<Infected Hand of Aegaeon pt. 2>
+### <Infected Hand of Aegaeon pt. 2>
 
-Other: this boss can't be targeted by ranged attacks like Javelins. Souls also 
-ignore it.
-
-
-Speed strategy: by being close to the boss and spamming R1 as it is falling 
-down sometimes allows you to do an early mini-game to it, saving a few seconds.
+Other: this boss can't be targeted by ranged attacks like Javelins. Souls also ignore it.
 
 
-Other: the game can softlock in the 2nd phase of the fight. Occasionally the 
-boss becomes invulnerable and never enters another mini-game phase. It seems 
-this is related to luring the boss to the left side of the arena, so just to be 
-safe, don't do it in speedruns.
+Speed strategy: by being close to the boss and spamming R1 as it is falling down sometimes allows you to do an early mini-game to it, saving a few seconds.
+
+
+Other: the game can softlock in the 2nd phase of the fight. Occasionally the boss becomes invulnerable and never enters another mini-game phase. It seems this is related to luring the boss to the left side of the arena, so just to be safe, don't do it in speedruns.
 
 Videos:
 1, AKheon's vid:
@@ -1686,20 +1656,11 @@ Videos:
 Wasted potential: the presence of Bug-enemies on the battlefield makes it really easy to create stale reference bugs, like Ice Rage-glitch, but they don't seem to do anything to this boss.
 
 
-Other (NG+): if you cast magic simultaneously as you activate the finishing 
-prompt, the finishing scene may become glitched up. The timing is very precise, 
-though.
+Other (NG+): if you cast magic simultaneously as you activate the finishing prompt, the finishing scene may become glitched up. The timing is very precise, though.
 
-Doing Fire or Soul Magic, the boss will start the finishing scene on its own 
-with the mini-game prompt still hovering above its head. Meanwhile, Kratos 
-casts the magic. Once the magic animation is over, the finishing scene starts 
-all over from the start.
+Doing Fire or Soul Magic, the boss will start the finishing scene on its own with the mini-game prompt still hovering above its head. Meanwhile, Kratos casts the magic. Once the magic animation is over, the finishing scene starts all over from the start.
 
-Doing Ice or Lightning Magic, the boss will start the finishing scene on its 
-own, but soon it stops and returns seemingly to normal for a while. Then it 
-freezes entirely, and you can no longer damage the boss or make it react in any 
-way - you're stuck. You can also see Megaera hanging on the boss' side if you 
-look down.
+Doing Ice or Lightning Magic, the boss will start the finishing scene on its own, but soon it stops and returns seemingly to normal for a while. Then it freezes entirely, and you can no longer damage the boss or make it react in any way - you're stuck. You can also see Megaera hanging on the boss' side if you look down.
 
 Videos:
 1, AKheon's vid:
@@ -1708,20 +1669,12 @@ Videos:
 
 ### <After boss fight>
 
-Speed strategy?: you can do a small checkpoint warp here. Retry as soon as the 
-intro cutscene to the next place starts. Afterwards the cutscene is over and 
-Kratos can just go on his way. Although it's still not tested if this truly 
-saves time since reloading takes some time as well.
+Speed strategy?: you can do a small checkpoint warp here. Retry as soon as the intro cutscene to the next place starts. Afterwards the cutscene is over and Kratos can just go on his way. Although it's still not tested if this truly saves time since reloading takes some time as well.
 
 
-Other: if you complete this area too quick, the game will not have enough time 
-to load the next cutscene properly. Megaera's sound bite is missing and there 
-are no enemies either. This means that you get stuck because you can't activate 
-the elevator until dealing with the absent enemies. What an awful thing to 
-happen in your speedrun!
+Other: if you complete this area too quick, the game will not have enough time to load the next cutscene properly. Megaera's sound bite is missing and there are no enemies either. This means that you get stuck because you can't activate the elevator until dealing with the absent enemies. What an awful thing to happen in your speedrun!
 
-My recommendation is to jog lazily to the switch and back instead of running at 
-full speed. That should be enough so that this annoying glitch doesn't happen.
+My recommendation is to jog lazily to the switch and back instead of running at full speed. That should be enough so that this annoying glitch doesn't happen.
 
 Videos:
 1, AKheon's vid:
@@ -1735,16 +1688,10 @@ Videos:
         https://youtu.be/HxMGUpxNZi4?t=40
 
 
-Other: Javelin shots auto-target towards the large elevator in this area for no 
-particular reason.
+Other: Javelin shots auto-target towards the large elevator in this area for no particular reason.
 
 
-Other: you can do a tether break-out when examining either of the R1 prompts 
-that let you examine the things here. This lets Kratos move a little bit or do 
-attacks after having examined the wall mural for instance. After the small 
-waiting period is over, the game interrupts whatever Kratos was doing - this 
-side effect could cause glitches, if you had time to actually go and do 
-anything else during this time. Which you sadly don't.
+Other: you can do a tether break-out when examining either of the R1 prompts that let you examine the things here. This lets Kratos move a little bit or do attacks after having examined the wall mural for instance. After the small waiting period is over, the game interrupts whatever Kratos was doing - this side effect could cause glitches, if you had time to actually go and do anything else during this time. Which you sadly don't.
 
 Videos:
 1, AKheon's vid:
@@ -1758,8 +1705,7 @@ Videos:
         https://www.youtube.com/watch?v=hY5pTanmyMI#t=49
 
 
-Other: if you lift up an elevator lock but then let it descend back down, it 
-doesn't have collision any longer and Kratos can walk inside it.
+Other: if you lift up an elevator lock but then let it descend back down, it doesn't have collision any longer and Kratos can walk inside it.
 
 
 ## Chapter 4 - The Hecatonchires
@@ -1767,28 +1713,16 @@ doesn't have collision any longer and Kratos can walk inside it.
 note: from hereafter "Hecatonchires" is referred to as Heca
 
 
-Other: you can R1 the door multiple times during the fade-out. However, this 
-doesn't really do anything.
+Other: you can R1 the door multiple times during the fade-out. However, this doesn't really do anything.
 
 
 Other: breaking out of the sensual cutscene
 
-You can tether break-out of the long story cutscene after opening the door, 
-allowing some crazy sights. You first have to do a well-timed tether break-out 
-as the screen is fading out after opening the door. Then another tether break-
-out a little after Kratos steps into the room. After that Kratos is free to 
-move during the cutscene until about the half-way of it.
+You can tether break-out of the long story cutscene after opening the door, allowing some crazy sights. You first have to do a well-timed tether break-out as the screen is fading out after opening the door. Then another tether break-out a little after Kratos steps into the room. After that Kratos is free to move during the cutscene until about the half-way of it.
 
-You can do special attacks to mess up the camera during the cutscene, but you 
-can even go further than that: you can jump up to bring the real Kratos to 
-appear on screen alongside the cutscene Kratos!
+You can do special attacks to mess up the camera during the cutscene, but you can even go further than that: you can jump up to bring the real Kratos to appear on screen alongside the cutscene Kratos!
 
-It seems difficult to utilize this break-out to do really useful things, 
-though. Kratos is standing on some temporary platform that is very small, so 
-moving just a little causes him to fall down and you can even die during the 
-cutscene. So far it seems you can't go early to the next areas either, and you 
-will eventually lose control of Kratos during the cutscene since it keeps re-
-positioning Kratos in the background. Oh well, at least it looks fun.
+It seems difficult to utilize this break-out to do really useful things, though. Kratos is standing on some temporary platform that is very small, so moving just a little causes him to fall down and you can even die during the cutscene. So far it seems you can't go early to the next areas either, and you will eventually lose control of Kratos during the cutscene since it keeps re-positioning Kratos in the background. Oh well, at least it looks fun.
 
 Videos:
 1, AKheon's vid:
@@ -1798,59 +1732,36 @@ Videos:
 World weapon: the enemies in the first fight carry Javelins.
 
 
-Random: during the short cutscene where Megaera says Kratos has hurt her for 
-the last time, Kratos is in fact completely free to move and do attacks. If 
-you're on NG+ and do magic or Rage attacks, the camera goes to focus on Kratos 
-instead of Megaera.
+Random: during the short cutscene where Megaera says Kratos has hurt her for the last time, Kratos is in fact completely free to move and do attacks. If you're on NG+ and do magic or Rage attacks, the camera focuses on Kratos instead of Megaera.
 
 
 World weapon: the enemies in the second fight carry Swords.
 
 
-Random: the fight where Heca's teeth balance the arena precariously works by 
-some pretty strange rules. It's like an autoscroller and it doesn't seem to 
-matter what you do during it, except at the very end. The amount of damage you 
-deal to the teeth doesn't seem to matter - just that you keep attacking them at 
-the right time.
+Random: the fight where Heca's teeth balance the arena precariously works by some pretty strange rules. It's like an autoscroller and it doesn't seem to matter what you do during it, except at the very end. The amount of damage you deal to the teeth doesn't seem to matter - just that you keep attacking them at the right time.
 
 
-Other (NG+): sometimes killing all the enemies at once with some magic can 
-cause them to stop respawning during this part.
+Other (NG+): sometimes killing all the enemies at once with some magic can cause them to stop respawning during this part.
 
 
-Other (NG+): if you cast magic while failing the autoscroller, sometimes Kratos 
-won't get a game over. Instead the camera shows Heca's smug face from above 
-while Kratos is free to do attacks in his gut. It lasts for a while until the 
-game over mercifully cuts things short.
+Other (NG+): if you cast magic while failing the autoscroller, sometimes Kratos won't get a game over. Instead the camera shows Heca's smug face from above while Kratos is free to do attacks in his gut. It lasts for a while until the game over mercifully cuts things short.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=chZA5IocExs#t=239
 
 
-Other (NG+): doing Ice Rage against the infected arm causes the Ice Rage glitch 
-reaction for some reason, causing the game to target objects like Heca's teeth 
-from the previous fight. This doesn't cause anything interesting to happen, 
-though.
+Other (NG+): doing Ice Rage against the infected arm causes the Ice Rage glitch reaction for some reason, causing the game to target objects like Heca's teeth from the previous fight. This doesn't cause anything interesting to happen, though.
 
 
-Other (NG+): reaching the phase of the boss fight where you assault Heca's head 
-with the infected arm, if you retry, you are able to do a magic break-out of 
-the event by spamming magic. With good timing, Kratos becomes free to move 
-while the infected arm goes through its grapple motions. But eventually Kratos 
-is insta-killed mysteriously and falls through the ground.
+Other (NG+): reaching the phase of the boss fight where you assault Heca's head with the infected arm, if you retry, you are able to do a magic break-out of the event by spamming magic. With good timing, Kratos becomes free to move while the infected arm goes through its grapple motions. But eventually Kratos is insta-killed mysteriously and falls through the ground.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=lBTDbUE60n0#t=17
 
 
-Other (NG+): when QTE dueling against Megaera, if you retry and spam magic, 
-Kratos breaks out of this scene too. He falls down after casting the magic and 
-you can see the environment from a strange angle. There is some floor you can 
-walk on under Heca's face, for some reason. But trying to go anywhere doesn't 
-seem possible since there's a lot of insta-death boundary below. It doesn't 
-seem to be possible to long jump to the lower area early.
+Other (NG+): when QTE dueling against Megaera, if you retry and spam magic, Kratos breaks out of this scene too. He falls down after casting the magic and you can see the environment from a strange angle. There is some floor you can walk on under Heca's face, for some reason. But trying to go anywhere doesn't seem possible since there's a lot of insta-death boundary below. It doesn't seem to be possible to long jump to the lower area early.
 
 Videos:
 1, AKheon's vid:
@@ -1864,26 +1775,11 @@ World weapon: there's a free Club close to where you start the level.
 
 Sequence break (NG+): skip Juggernaut fight and rope section (c: AKheon)
 
-First of all, the trigger that starts the Juggernaut fight does not extend far 
-left. So if you use an extended Poseidon Tremble high jump, you can get on top 
-of the higher platform to the left and thus evade activating the Juggernaut 
-fight in the first place.
+First of all, the trigger that starts the Juggernaut fight does not extend far left. So if you use an extended Poseidon Tremble high jump, you can get on top of the higher platform to the left and thus evade activating the Juggernaut fight in the first place.
 
-After this, there is a small problem since you are unable to push the movable 
-box anywhere from the right side because there is some invisible collision in 
-the way. Yes, this collision only disappears after having fought those 
-Juggernauts... so what to do? You can either go turn the crank to lower the 
-rope and complete the map like "normal", albeit without the box. But this is 
-fairly slow.
+After this, there is a small problem since you are unable to push the movable box anywhere from the right side because there is some invisible collision in the way. Yes, this collision only disappears after having fought those Juggernauts... so what to do? You can either go turn the crank to lower the rope and complete the map like "normal", albeit without the box. But this is fairly slow.
 
-You can also skip the remaining area with a single high jump (on NG+). Go to 
-where the movable box is originally located, then climb the building to the 
-right. You can use an Unarmed Jump to get on top of the little roof there, and 
-from there do a Broken Destiny jump to get to the top. However, you need to 
-squeeze everything out of your jump here or else you hit some angled collision 
-that drops Kratos off. It can be annoying to pull off. My advice is to start 
-the Broken Destiny motions from a relaxed double jump - this gives you more 
-length instead of height, and helps to get across.
+You can also skip the remaining area with a single high jump (on NG+). Go to where the movable box is originally located, then climb the building to the right. You can use an Unarmed Jump to get on top of the little roof there, and from there do a Broken Destiny jump to get to the top. However, you need to squeeze everything out of your jump here or else you hit some angled collision that drops Kratos off. It can be annoying to pull off. My advice is to start the Broken Destiny motions from a relaxed double jump - this gives you more length instead of height, and helps to get across.
 
 Videos:
 1, AKheon's vid of the entire skip on NG+:
@@ -1894,19 +1790,13 @@ Videos:
 
 Sequence break: other skips in the first area
 
-Using "slightly higher double jump" you are able to do two different (mutually 
-incompatible) skips in this area.
+Using "slightly higher double jump" you are able to do two different (mutually incompatible) skips in this area.
 
-First, you can jump on top of the higher platform at the left without needing 
-to use the movable box at all. However, you have to complete the puzzle and 
-lower the rope for this to be useful at all, so it's still fairly slow.
+First, you can jump on top of the higher platform at the left without needing to use the movable box at all. However, you have to complete the puzzle and lower the rope for this to be useful at all, so it's still fairly slow.
 
-The more useful variation is to drag the movable box beneath the higher ground 
-where there are some planks and use slightly higher double jump to grab a ledge 
-there. You skip the entire puzzle when doing this.
+The more useful variation is to drag the movable box beneath the higher ground where there are some planks and use slightly higher double jump to grab a ledge there. You skip the entire puzzle when doing this.
 
-On NG+ you can do either skip with a Poseidon Tremble high jump as well, should 
-be slightly easier.
+On NG+ you can do either skip with a Poseidon Tremble high jump as well, should be slightly easier.
 
 Videos:
 1, findlestick's vid of doing the latter skip on NG:
@@ -1915,8 +1805,7 @@ Videos:
         https://www.youtube.com/watch?v=f9Je8yLTYPQ
 
 
-Random: the Javelin and other ranged weapons tend to target the crank machinery 
-instead of other targets in this area.
+Random: the Javelin and other ranged weapons tend to target the crank machinery instead of other targets in this area.
 
 
 World weapon: there's a Javelin after the rope crossing.
