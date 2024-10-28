@@ -1811,22 +1811,14 @@ Random: the Javelin and other ranged weapons tend to target the crank machinery 
 World weapon: there's a Javelin after the rope crossing.
 
 
-Other: sometimes the bug enemies up ahead will be glitched up and not "real" 
-enemies. You can't attack them nor will they attack you. This might happen only 
-if you access the upper areas via an unintended route.
+Other: sometimes the bug enemies up ahead will be glitched up and not "real" enemies. You can't attack them nor will they attack you. This might happen only if you access the upper areas via an unintended route.
 
 
 Sequence break (NG+): skip Fire of Ares
 
-On NG+ you can skip the entire Fire of Ares section in a somewhat bizarre way. 
-First go up to the Fire of Ares door. Then use Fire Rage against the door and 
-the urn, then do a Fire Magic once the tutorial message asking you to do Fire 
-Magic pops up. For some reason this makes the game think you completed the 
-tutorial fight, allowing Kratos to pass through early.
+On NG+ you can skip the entire Fire of Ares section in a somewhat bizarre way. First go up to the Fire of Ares door. Then use Fire Rage against the door and the urn, then do a Fire Magic once the tutorial message asking you to do Fire Magic pops up. For some reason this makes the game think you completed the tutorial fight, allowing Kratos to pass through early.
 
-As a bonus graphical glitch, if you leave to the next area and then return back 
-to the Fire of Ares map, its graphics are glitched. Some things are not visible 
-until returning to the door.
+As a bonus graphical glitch, if you leave to the next area and then return back to the Fire of Ares map, its graphics are glitched. Some things are not visible until returning to the door.
 
 Videos:
 1, AKheon's vid:
@@ -1846,11 +1838,7 @@ It's possible to use a stale reference bug to take the movable pedestal from the
 You could probably use Sling levitation to go over the door, but Slings only become available in the next area after passing the Fire of Ares door.
 
 
-Other (NG+): in general the Fire of Ares door is pretty strange and doing Fire 
-Rage when approaching it for the first time can cause the Satyr enemies to 
-spawn before you've even picked up Fire of Ares. If you start the Fire of Ares 
-tutorial fight with the enemies already spawned, it seems the game doesn't know 
-what to do and the fight will never end.
+Other (NG+): in general the Fire of Ares door is pretty strange and doing Fire Rage when approaching it for the first time can cause the Satyr enemies to spawn before you've even picked up Fire of Ares. If you start the Fire of Ares tutorial fight with the enemies already spawned, it seems the game doesn't know what to do and the fight will never end.
 
 Videos:
 1, AKheon's vid of various glitches at the Fire of Ares door:
@@ -1860,33 +1848,22 @@ Videos:
 Other (NG): findlestick mentioned that if you retry a moment before using the Fire of Ares-prompt, Kratos returns to the previous checkpoint but he now has Fire of Ares and an empty magic bar.
 
 
-Infinite red orbs: at the Fire of Ares tutorial, the game expects you to use a 
-Rage attack on an enemy. If you refuse and keep killing the enemies, the game 
-will spawn them infinitely. If Kratos has a Sword, he can slowly drain an 
-endless amount of red orbs from the stream of foes.
+Infinite red orbs: at the Fire of Ares tutorial, the game expects you to use a Rage attack on an enemy. If you refuse and keep killing the enemies, the game will spawn them infinitely. If Kratos has a Sword, he can slowly drain an endless amount of red orbs from the stream of foes.
 
 
-Sequence break: you can skip the Satyr General fight by doing an Unarmed Jump 
-to as far left as you can from the higher platform (before dropping down). This 
-way Kratos activates the camera that shows the fight starting but doesn't 
-actually spawn the enemies or the fight barriers, allowing him to continue on 
-his way without issues.
+Sequence break: you can skip the Satyr General fight by doing an Unarmed Jump to as far left as you can from the higher platform (before dropping down). This way Kratos activates the camera that shows the fight starting but doesn't actually spawn the enemies or the fight barriers, allowing him to continue on his way without issues.
 
-On NG+ it's even easier to do a variant of Broken Destiny long jump a bit to 
-make your jump longer and less precise to pull off.
+On NG+ it's even easier to do a variant of Broken Destiny long jump a bit to make your jump longer and less precise to pull off.
 
 Videos:
 1, a part from a speedrun where this trick is used:
         https://www.youtube.com/watch?v=LDqv61wmIvw#t=183
 
 
-World weapon: you'll find a Sling on the path before climbing up towards the 
-water wheel.
+World weapon: you'll find a Sling on the path before climbing up towards the water wheel.
 
 
-Other: retrying from the checkpoint before starting the big climb, the nearby 
-chest becomes colorless and gray for a few seconds until the colors reload 
-again.
+Other: retrying from the checkpoint before starting the big climb, the nearby chest becomes colorless and gray for a few seconds until the colors reload again.
 
 
 World weapon: there's a Javelin in front of the water wheel.
@@ -1895,27 +1872,19 @@ World weapon: there's a Javelin in front of the water wheel.
 Random: the Satyrs here can't be frozen with Ice Rage.
 
 
-Sequence break (NG+): using a customized high jump, you are able to skip 
-touching the waterwheel grapple switch at all. You also skip the preceding 
-fight against the Satyrs and the cutscene that would follow.
+Sequence break (NG+): using a customized high jump, you are able to skip touching the waterwheel grapple switch at all. You also skip the preceding fight against the Satyrs and the cutscene that would follow.
 
-Just using Broken Destiny high jump motions with a good air momentum is barely 
-enough to do the jump, but you got to start the jump from the slightly elevated 
-side of the ramp. So carefully jump to the edge, then do a similar Broken 
-Destiny jump that was used at Kirra Juggernaut skip to make it across.
+Just using Broken Destiny high jump motions with a good air momentum is barely enough to do the jump, but you got to start the jump from the slightly elevated side of the ramp. So carefully jump to the edge, then do a similar Broken Destiny jump that was used at Kirra Juggernaut skip to make it across.
 
 Videos:
 1, AKheon's vid of the skip:
         https://www.youtube.com/watch?v=A9rCOMg7rTk
 
 
-Speed strategy: kill only two of the Sling Satyrs here to avoid starting an 
-annoying filler cutscene. This way you can use the waterwheel grapple switch 
-without wasting as much time. (c: Robin Fleming)
+Speed strategy: kill only two of the Sling Satyrs here to avoid starting an annoying filler cutscene. This way you can use the waterwheel grapple switch without wasting as much time. (c: Robin Fleming)
 
 
-Speed strategy: don't pull the waterwheel down all the way. Only enough for 
-Kratos to barely make it on top of the rising platform.
+Speed strategy: don't pull the waterwheel down all the way. Only enough for Kratos to barely make it on top of the rising platform.
 
 
 Wasted potential: it would be possible to skip the fight at the collapsing bridge if you could get over the whole area using some unrealistically high jump.
@@ -1925,24 +1894,17 @@ Other: Breaking bridge shenanigans
 
 You can avoid having the bridge break by jumping down to the fight arena over the wall of the abandoned building (with an Unarmed Jump). This causes a small difficulty later on as you can't climb up from the fight area since the bridge still exists, so you have to climb around it.
 
-So what's the use of preventing the bridge from breaking? No use, really. But 
-after fighting the Gorgon you can use the bridge as a one-time platform to jump 
-back to where you came from... only to find out that things on that side are 
-now unloaded and that you can't backtrack anyway.
+So what's the use of preventing the bridge from breaking? No use, really. But after fighting the Gorgon you can use the bridge as a one-time platform to jump back to where you came from... only to find out that things on that side are now unloaded and that you can't backtrack anyway.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=vB9RlQqlAak#t=124
 
 
-Untested: you could probably skip the fight after the collapsing bridge by 
-using Sling Discard jump. There is for instance some floor on top of the 
-archway leading to the bonus area which you could use for this purpose...
+Untested: you could probably skip the fight after the collapsing bridge by using Sling Discard jump. There is for instance some floor on top of the archway leading to the bonus area which you could use for this purpose...
 
 
-Other: somehow it is possible to accidentally fall out of bounds when the 
-bridge breaks under Kratos. Kratos then becomes checkpointed on some floor out 
-of bounds and is stuck there.
+Other: somehow it is possible to accidentally fall out of bounds when the bridge breaks under Kratos. Kratos then becomes checkpointed on some floor out of bounds and is stuck there.
 
 Videos:
 1, Robin Fleming's video:
@@ -1954,24 +1916,11 @@ World weapon: there's a Club nearby after the bridge breaks under Kratos.
 
 Sequence break: Gorgon fight skip
 
-The Gorgon fight starts if you hit a trigger right at the top of the short 
-stretch of ladder. So do your best to avoid it by jumping off the ladder and 
-getting to the top using a Broken Destiny or Unarmed Jump instead of climbing 
-up. Avoiding the area close to the ladder and rolling quickly, you can continue 
-on in the game without having to bother with this fight at all. (c: 
-findlestick)
+The Gorgon fight starts if you hit a trigger right at the top of the short stretch of ladder. So do your best to avoid it by jumping off the ladder and getting to the top using a Broken Destiny or Unarmed Jump instead of climbing up. Avoiding the area close to the ladder and rolling quickly, you can continue on in the game without having to bother with this fight at all. (c: findlestick)
 
-The prompt to open the door is not active if you skipped the Gorgon fight, so 
-now you have to clip through the right side of the door to get past it. My 
-suggestion for doing this is having Kratos face left, then doing sideways rolls 
-towards the right side of the doorway. Afterwards everything should work like 
-normal.
+The prompt to open the door is not active if you skipped the Gorgon fight, so now you have to clip through the right side of the door to get past it. My suggestion for doing this is having Kratos face left, then doing sideways rolls towards the right side of the doorway. Afterwards everything should work like normal.
 
-Also, sometimes after having done this skip, Kratos is hit with some strange 
-mode for a second or two where he freezes up. If you are sprinting during this 
-time, you keep moving and can in fact breach walls during it. If you're lucky 
-this will also get you through the closed door. Or if you're unlucky, it will 
-drop Kratos out of bounds to his death.
+Also, sometimes after having done this skip, Kratos is hit with some strange mode for a second or two where he freezes up. If you are sprinting during this time, you keep moving and can in fact breach walls during it. If you're lucky this will also get you through the closed door. Or if you're unlucky, it will drop Kratos out of bounds to his death.
 
 Videos:
 1, findlestick's vid of the skip:
@@ -1980,18 +1929,9 @@ Videos:
        https://youtu.be/zaoG_RH6uDY?t=26
 
 
-Other: approaching the Gorgon fight from a wrong direction can glitch the pre-
-fight cutscene and the fight itself up. The pre-fight scene wil be aligned 
-wrong - Kratos walks to a wrong direction during it and the camera shows you an 
-out of bounds area instead of the Gorgon. At the end, Kratos may accidentally 
-walk out of the combat arena and fall down before the fight has even started! 
-But this isn't very useful since you can't get back up to fight the Gorgon 
-after leaving, getting you stuck.
+Other: approaching the Gorgon fight from a wrong direction can glitch the pre-fight cutscene and the fight itself up. The pre-fight scene wil be aligned wrong - Kratos walks to a wrong direction during it and the camera shows you an out of bounds area instead of the Gorgon. At the end, Kratos may accidentally walk out of the combat arena and fall down before the fight has even started! But this isn't very useful since you can't get back up to fight the Gorgon after leaving, getting you stuck.
 
-Since the triggers for Kratos freezing and the Gorgon appearing are separate, 
-it's also possible to start the Gorgon fight cutscene but have Kratos free to 
-move during it. If you approach the exit door, after a certain limit the Gorgon 
-will de-spawn unceremoniously.
+Since the triggers for Kratos freezing and the Gorgon appearing are separate, it's also possible to start the Gorgon fight cutscene but have Kratos free to move during it. If you approach the exit door, after a certain limit the Gorgon will de-spawn unceremoniously.
 
 Videos:
 1, findlestick's vid:
@@ -2000,15 +1940,7 @@ Videos:
 
 Other: duplicating Gorgon Eyes?
 
-GameFAQs user Veladus reported an interesting thing that had happened to him on 
-his playthrough. He had played up to the start of Cistern and picked up the 
-Gorgon Eye chest on top of the bridge before backtracking and visiting the 
-secret area with a roller he had missed earlier. After dying inside the puzzle 
-a few times he had managed to complete it. But when returning to the Cistern, 
-it had completely reset itself - enemies were back, and the chests were reset 
-too, so he was able to pick up an extra Gorgon Eye. This should be verified, 
-and see if it is possible to repeat this procedure to fool the game into giving 
-Kratos even more early Gorgon Eyes. §
+GameFAQs user Veladus reported an interesting thing that had happened to him on his playthrough. He had played up to the start of Cistern and picked up the Gorgon Eye chest on top of the bridge before backtracking and visiting the secret area with a roller he had missed earlier. After dying inside the puzzle a few times he had managed to complete it. But when returning to the Cistern, it had completely reset itself - enemies were back, and the chests were reset too, so he was able to pick up an extra Gorgon Eye. This should be verified, and see if it is possible to repeat this procedure to fool the game into giving Kratos even more early Gorgon Eyes. §
 
 
 ## Chapter 6 - The Cistern
@@ -2019,19 +1951,14 @@ World weapon: there's a Sling lying nearby as you enter the Cistern corridor.
 Wasted potential: it seems the water effect at the bottom of Cistern is just cosmetic and you can't use it to start swimming glitch. The same seems to be true for the water under the bridge in the following maps as well.
 
 
-Other: for some reason the lighting of the climbing section can glitch up and 
-go mostly black. Nothing is visible except the various light and mist effects 
-of the area. This effect lasts all the way up to the part where Kratos boards 
-the snaketrain. It's unknown what might cause the glitch.
+Other: for some reason the lighting of the climbing section can glitch up and go mostly black. Nothing is visible except the various light and mist effects of the area. This effect lasts all the way up to the part where Kratos boards the snaketrain. It's unknown what might cause the glitch.
 
 Videos:
 1, nanosphere's vid:
         https://www.youtube.com/watch?v=K9caukFZLhQ
 
 
-Sequence break: you can skip the sliding and climbing sections ahead by using 
-Poseidon Tremble super speed. This jump is too hard to control for single 
-segment runs, though. (c: vipeazone)
+Sequence break: you can skip the sliding and climbing sections ahead by using Poseidon Tremble super speed. This jump is too hard to control for single segment runs, though. (c: vipeazone)
 
 Videos:
 1, vipeazone's vid (at the start):
@@ -2041,24 +1968,17 @@ Videos:
 Random: there's an out-of-bounds white cube underneath the climbing section after the slide, but it can't be reached because of death collision.
 
 
-World weapon: you can get a Sword from a Satyr during the Ice of Poseidon 
-fight.
+World weapon: you can get a Sword from a Satyr during the Ice of Poseidon fight.
 
 
-Sequence break: you can skip the whole Ice of Poseidon by doing an Unarmed Jump 
-to the side of the urn. Kratos will clip through the side of the urn upon 
-descending if you're lucky. Yeah, it may take several tries to make it work, 
-but it is still always worth it in a NG+ speedrun. (c: Robin Fleming)
+Sequence break: you can skip the whole Ice of Poseidon by doing an Unarmed Jump to the side of the urn. Kratos will clip through the side of the urn upon descending if you're lucky. Yeah, it may take several tries to make it work, but it is still always worth it in a NG+ speedrun. (c: Robin Fleming)
 
 Videos:
 1, Robin Fleming's original video:
         https://www.youtube.com/watch?v=3UcXhcJsRGY
 
 
-Speed strategy: in the Ice of Poseidon tutorial fight, grapple throw all 
-enemies to the corner that's left of the gate. Then, once they're all grouped 
-together, charged Club air attacks will hit them all at once for massive 
-damage.
+Speed strategy: in the Ice of Poseidon tutorial fight, grapple throw all enemies to the corner that's left of the gate. Then, once they're all grouped together, charged Club air attacks will hit them all at once for massive damage.
 
 Videos:
 1, a part of a speedrun where this trick is used:
@@ -2068,16 +1988,13 @@ Videos:
 Wasted potential: it was tested with a glitched Shield what happens if you get on top of the higher walkway early (where you normally come from in Chapter 12). It has collision but no camera angles, and it seems to lead nowhere.
 
 
-Other: you get a small camera glitch if you activate the snaketrain prompt with 
-Kratos facing away from it or doing actions like sprinting.
+Other: you get a small camera glitch if you activate the snaketrain prompt with Kratos facing away from it or doing actions like sprinting.
 
 
-Other: you can cast a magic frame-precisely before the cinematic to the next 
-area for a harmless graphical effect during the ride.
+Other: you can cast a magic frame-precisely before the cinematic to the next area for a harmless graphical effect during the ride.
 
 
-Speed strategy: hold down R1 as the snaketrain is about to stop to latch onto 
-the grapple point early. This saves a few seconds.
+Speed strategy: hold down R1 as the snaketrain is about to stop to latch onto the grapple point early. This saves a few seconds.
 
 
 ## Chapter 7 - The Tower of Delphi
@@ -2104,13 +2021,7 @@ Wasted potential: I tested escaping the Chimera fight and returning back to the 
 Other: the Chimera object ceases to exist in the game's memory and can no longer be reached with a stale reference bug once the grapple switch appears.
 
 
-Other: if you break out of the grapple switch, you are able to position Kratos 
-heavily to the left as you finish pulling the grapple switch. This way, when 
-the snaketrain comes, you can jump inside it much earlier than the game intends 
-to be possible. This causes Kratos to start sliding before the entrance 
-cutscene even finishes, which is a bad thing in this case since you don't have 
-any control over him! Kratos will always slides into the pit and dies, and 
-therefore this can't be used as a speed tactic, sadly.
+Other: if you break out of the grapple switch, you are able to position Kratos heavily to the left as you finish pulling the grapple switch. This way, when the snaketrain comes, you can jump inside it much earlier than the game intends to be possible. This causes Kratos to start sliding before the entrance cutscene even finishes, which is a bad thing in this case since you don't have any control over him! Kratos will always slides into the pit and dies, and therefore this can't be used as a speed tactic, sadly.
 
 Videos:
 1, AKheon's vid:
@@ -2119,28 +2030,15 @@ Videos:
 
 Wasted potential: skip snaketrain entrance cutscene (and get stuck)
 
-You can skip a short scene when entering the first snaketrain by jumping around 
-the cutscene trigger with a basic double jump. However, this has severe 
-consequences later on.
+You can skip a short scene when entering the first snaketrain by jumping around the cutscene trigger with a basic double jump. However, this has severe consequences later on.
 
-The short cutscene is actually for masking loading times. Skipping it and just 
-rushing ahead carelessly, the snaketrain never enters its correct position. The 
-collision inside acts strangely, with some sliding parts broken so that Kratos 
-starts normally walking while on them. In the next fight the graphics are 
-displaced and you have to be careful with the chasms since they're displaced 
-too.
+The short cutscene is actually for masking loading times. Skipping it and just rushing ahead carelessly, the snaketrain never enters its correct position. The collision inside acts strangely, with some sliding parts broken so that Kratos starts normally walking while on them. In the next fight the graphics are displaced and you have to be careful with the chasms since they're displaced too.
 
-Finally - you get stuck at the top of the Tower when returning there in Chapter 
-9 because the critical grapple switch never became reset and can't be activated 
-after beating Manticore. So this trick can't be used for time saving.
+Finally - you get stuck at the top of the Tower when returning there in Chapter 9 because the critical grapple switch never became reset and can't be activated after beating Manticore. So this trick can't be used for time saving.
 
-If you do this trick but wait a while before entering the slide, the next parts 
-of the game act normally instead of being glitched since the game had more time 
-to load things. But you still end up getting stuck at Chapter 9 end.
+If you do this trick but wait a while before entering the slide, the next parts of the game act normally instead of being glitched since the game had more time to load things. But you still end up getting stuck at Chapter 9 end.
 
-As another interesting side effect of doing this skip, there's a gaping hole in 
-the invisible wall at the top of the Tower. You can jump out of it after riding 
-the first snaketrain, but there's nothing but insta-death floor below.
+As another interesting side effect of doing this skip, there's a gaping hole in the invisible wall at the top of the Tower. You can jump out of it after riding the first snaketrain, but there's nothing but insta-death floor below.
 
 Videos:
 1, AKheon's vid:
@@ -2150,58 +2048,33 @@ Videos:
 Wasted potential: I used glitched Shield to jump all the way to the Temple of Delphi early, but it's just an unloaded cardboard cut-out at this stage, so this is not useful.
 
 
-Wasted potential: after boarding the snaketrain, you can long jump back to 
-where you came from but the Tower has no collision and you just fall to your 
-death.
+Wasted potential: after boarding the snaketrain, you can long jump back to where you came from but the Tower has no collision and you just fall to your death. 
 
 
-Wasted potential: you can zip from the first sliding part of the level to the 
-end of Chapter 8 if you're careful. Basically, use Poseidon Tremble speed 
-glitch here, then after sliding down the corridor a bit, you need to go out of 
-bounds and fly a long way to the left (?). This will land Kratos to the 
-vertical ice slide he uses at the end of Chapter 8. You will skip Lightning of 
-Poseidon doing this, and Chapter 8 will never show up in the Chapter Select-
-menu afterwards.
+Wasted potential: you can zip from the first sliding part of the level to the end of Chapter 8 if you're careful. Basically, use Poseidon Tremble speed glitch here, then after sliding down the corridor a bit, you need to go out of bounds and fly a long way to the left (?). This will land Kratos to the vertical ice slide he uses at the end of Chapter 8. You will skip Lightning of Poseidon doing this, and Chapter 8 will never show up in the Chapter Select-menu afterwards.
 
-Otherwise fine and dandy, but it seems that doing this skip in any of its forms 
-causes a game breaking glitch at the end of Chapter 9, when returning to the 
-center tower. No cutscenes start and you just get stuck.
+Otherwise fine and dandy, but it seems that doing this skip in any of its forms causes a game breaking glitch at the end of Chapter 9, when returning to the center tower. No cutscenes start and you just get stuck.
 
 Videos:
 1, vipeazone's video:
         https://www.youtube.com/watch?v=NqnsgcNCMHE#t=35
 
 
-World weapon: you can take a Shield from the enemies inside the first 
-snaketrain. This is the first known place in the game you can get a Shield, 
-which means from this point the Shield Jump and Upgrade Jump are options for 
-Kratos.
+World weapon: you can take a Shield from the enemies inside the first snaketrain. This is the first known place in the game you can get a Shield, which means from this point the Shield Jump and Upgrade Jump are options for Kratos.
 
 
-Speed strategy: one of the fastest ways to win this fight is to activate all 
-enemies and then group them together, then cast Ice Magic. This shatters the 
-flying enemies, disarms the Shielded Satyrs and freezes them all at once. Then 
-just break the Satyrs and you've won. Unfortunately sometimes an enemy can 
-evade the Ice Magic range, but mostly this is a pretty consistent strategy.
+Speed strategy: one of the fastest ways to win this fight is to activate all enemies and then group them together, then cast Ice Magic. This shatters the flying enemies, disarms the Shielded Satyrs and freezes them all at once. Then just break the Satyrs and you've won. Unfortunately sometimes an enemy can evade the Ice Magic range, but mostly this is a pretty consistent strategy.
 
-If a flying enemy does evade the Ice Magic, just to be safe you don't want to 
-use Ice Rage here to quickly shatter them. Why? Because if you miss the target 
-and hit one of those Manticore Eggs instead, you may accidentally target a dead 
-enemy, which makes this fight unwinnable.
+If a flying enemy does evade the Ice Magic, just to be safe you don't want to use Ice Rage here to quickly shatter them. Why? Because if you miss the target and hit one of those Manticore Eggs instead, you may accidentally target a dead enemy, which makes this fight unwinnable.
 
 
-Speed strategy: you can environmentally kill enemies here with grapple throws. 
-Environmental kills are possible in many later fights in this area as well.
+Speed strategy: you can environmentally kill enemies here with grapple throws. Environmental kills are possible in many later fights in this area as well.
 
 
-Other: if you're unlucky, a flying enemy can fly out of bounds during the fight 
-inside the snaketrain. If you can't reach it, the fight barrier never 
-dissipates and you get stuck.
+Other: if you're unlucky, a flying enemy can fly out of bounds during the fight inside the snaketrain. If you can't reach it, the fight barrier never dissipates and you get stuck.
 
 
-Other: some graphics in this part of the game can suffer from random pop-ins 
-and other oddities. You can see a floor of a snaketrain fade in and out of 
-existence as Kratos moves around it, for example.
+Other: some graphics in this part of the game can suffer from random pop-ins. You can see a floor of a snaketrain fade in and out of existence as Kratos moves around it, for example. I remember this happening while playing on an old CRT TV, but after switching to HDMI I can no longer see the pop-ins. So, I wonder if this could be a resolution-specific oddity?
 
 
 ## Chapter 8 - The Python's Belly
@@ -2214,26 +2087,11 @@ Wasted potential: using Shield attacks or Hyperion Ram, you are able to slip Kra
 
 Sequence break: skip Lightning of Zeus
 
-First of all, the loading trigger for the next area is down close to the 
-Lightning of Zeus power, so you have to drop down whether you like it or not.
+First of all, the loading trigger for the next area is down close to the Lightning of Zeus power, so you have to drop down whether you like it or not.
 
-Down inside the room, you can use an Upgrade Jump to escape the area before or 
-after picking up the power. Doing the Jump before picking up Lightning of Zeus 
-is a legitimate cutscene and fight skip, although fairly costly since Upgrade 
-Jumps are valuable things. If you escape during the tutorial fight instead, as 
-a side effect Kratos is forced to use Lightning power and can't switch away 
-from it for the indefinite future... which is probably something you don't want 
-to happen. (c: findlestick)
+Down inside the room, you can use an Upgrade Jump to escape the area before or after picking up the power. Doing the Jump before picking up Lightning of Zeus is a legitimate cutscene and fight skip, although fairly costly since Upgrade Jumps are valuable things. If you escape during the tutorial fight instead, as a side effect Kratos is forced to use Lightning power and can't switch away from it for the indefinite future... which is probably something you don't want to happen. (c: findlestick)
 
-Nowadays there exists another method of skipping Lightning power that doesn't 
-need an Upgrade Jump (v2). There's some floor on top of the pillars that Kratos 
-can just barely land on during a Shield Jump. With a precise motion you can go 
-around the invisible ceiling that is in front of Zeus door and hit the top of 
-the pillar without Kratos instantly falling off it. After that you just jump 
-through the ceiling and escape without ever getting Lightning of Zeus. From 
-quick tests, it seemed like using the left pillar is better to use for this 
-trick. However, it's not consistent enough to really use in a single segment 
-run for instance. (c: AKheon)
+Nowadays there exists another method of skipping Lightning power that doesn't need an Upgrade Jump (v2). There's some floor on top of the pillars that Kratos can just barely land on during a Shield Jump. With a precise motion you can go around the invisible ceiling that is in front of Zeus door and hit the top of the pillar without Kratos instantly falling off it. After that you just jump through the ceiling and escape without ever getting Lightning of Zeus. From quick tests, it seemed like using the left pillar is better to use for this trick. However, it's not consistent enough to really use in a single segment run for instance. (c: AKheon)
 
 Videos:
 1, findlestick's vid:
@@ -2242,19 +2100,12 @@ Videos:
         https://www.youtube.com/watch?v=5Q0ECDe8G5g
 
 
-World weapon: Kratos can acquire a Javelin or a Club from the Lightning of 
-Zeus-fight.
+World weapon: Kratos can acquire a Javelin or a Club from the Lightning of Zeus-fight.
 
 
-Wasted potential: you can use Poseidon Tremble super speed glitch at the 
-sliding part after getting Lightning of Zeus to skip to the end of Chapter 8 as 
-well. It's quite difficult to do, as expected. One direction that worked for me 
-was to move forward to get out of the collisions of your current snaketrain, 
-then aim to the right and down sporadically.
+Wasted potential: you can use Poseidon Tremble super speed glitch at the sliding part after getting Lightning of Zeus to skip to the end of Chapter 8 as well. It's quite difficult to do, as expected. One direction that worked for me was to move forward to get out of the collisions of your current snaketrain, then aim to the right and down sporadically.
 
-You can also accidentally go so far that you get the title "Ice Caverns" on 
-your screen. But it doesn't seem like this helps skip straight to Chapter 9, at 
-least so far...
+You can also accidentally go so far that you get the title "Ice Caverns" on your screen. But it doesn't seem like this helps skip straight to Chapter 9, at least so far...
 
 Unfortunately it seems that doing this skip in any of its forms causes a game breaking glitch at the end of Chapter 9, when returning to the center tower. No cutscenes start, the Tower of Delphi itself is not loaded at all in the background, no Manticore appears and you just get stuck.
 
@@ -2269,41 +2120,25 @@ Other / wasted potential: you can get on top of the snaketrain of the first clim
 Wasted potential: you can break out of the large climbing section in a few different points with either circle or using Rage while leaping across distances. I tried Poseidon Tremble at these parts to find some magnetic ledges to possibly skip parts of the climbing, but to no avail. However, it's hard to be thorough with a large climbing area like this.
 
 
-Other / wasted potential: after climbing up for a while, Kratos reaches a 
-grapple point that leads to him breaking through the wall of the next 
-snaketrain. You can in fact do a Shield Jump to end up on top of the snaketrain 
-instead of breaking inside it. This makes it possible to quick roll through the 
-part you'd normally slide, which is not very useful since sliding is faster. 
-Also, the camera becomes glitched in a fairly game breaking way.
+Other / wasted potential: after climbing up for a while, Kratos reaches a grapple point that leads to him breaking through the wall of the next  snaketrain. You can in fact do a Shield Jump to end up on top of the snaketrain instead of breaking inside it. This makes it possible to quick roll through the part you'd normally slide, which is not very useful since sliding is faster. Also, the camera becomes glitched in a fairly game breaking way.
 
-You can play at least up to the next fight, but after that it seems impossible 
-to find the grapple point leading to the next area...? It's likely that it's 
-not loaded correctly, since its range is so big you'd think it was easy to find 
-even without seeing things properly. So you get stuck.
+You can play at least up to the next fight, but after that it seems impossible to find the grapple point leading to the next area...? It's likely that it's not loaded correctly, since its range is so big you'd think it was easy to find even without seeing things properly. So you get stuck.
 
 Videos:
 1, AKheon's vid
         https://www.youtube.com/watch?v=hY5pTanmyMI#t=287
 
 
-Other: the grapple point for breaking inside the snaketrain is oversensitive 
-and can be re-activated after you've already activated it once.
+Other: the grapple point for breaking inside the snaketrain is oversensitive and can be re-activated after you've already activated it once.
 
 
-Speed strategy?: if you retry from the checkpoint where Kratos is sliding down, 
-he can jump up in air the first moment and do Poseidon Tremble super speed 
-glitch to get through the slide extra fast. But using this glitch is always a 
-bit risky... Not to mention with the extra loading times, this trick might in 
-the end cost more time than it would save.
+Speed strategy?: if you retry from the checkpoint where Kratos is sliding down, he can jump up in air the first moment and do Poseidon Tremble super speed glitch to get through the slide extra fast. But using this glitch is always a bit risky... Not to mention with the extra loading times, this trick might in the end cost more time than it would save.
 
 
 Wasted potential: I tested if it was possible to skip the fight after the slide sections using glitched Shield. If you could jump all the way over the invisible wall and a large gap, you could land on some floor on top of the upcoming grapple switch and operate it from there. However, this makes the following QTE to look graphically glitched and become unwinnable even if you give the right prompts.
 
 
-Other: during the cinematic part where there's a QTE fight against a Manticore, 
-you are able to do the elusive "get a game over inside a menu" glitch by 
-opening either menu at a precise time as Kratos falls to his death after 
-failing the first QTE.
+Other: during the cinematic part where there's a QTE fight against a Manticore, you are able to do the elusive "get a game over inside a menu" glitch by opening either menu at a precise time as Kratos falls to his death after failing the first QTE.
 
 Videos:
 1, AKheon's vid:
@@ -2312,39 +2147,21 @@ Videos:
 
 Other: skip rest of Chapter 8
 
-After the long cutscene of the snaketrain moving into place, you can use 
-Poseidon Tremble super speed glitch to skip the small bout of sliding and 
-climbing close to the end of the chapter. This shouldn't be too hard to do even 
-in a RTA since you can latch onto those grapples from a wide area or even fly 
-close to the vertical ice wall. Personally I have the best success with this 
-trick by doing a long double jump down the slide before doing Poseidon Tremble. 
-After hitting the slide with Tremble, I spam air attacks and steer to the left. 
-Kratos may get stuck on some collision there for a little bit, but you can 
-always re-steer from there more to the right to reach the grapple points.
+After the long cutscene of the snaketrain moving into place, you can use Poseidon Tremble super speed glitch to skip the small bout of sliding and climbing close to the end of the chapter. This shouldn't be too hard to do even in a RTA since you can latch onto those grapples from a wide area or even fly close to the vertical ice wall. Personally I have the best success with this trick by doing a long double jump down the slide before doing Poseidon Tremble. After hitting the slide with Tremble, I spam air attacks and steer to the left. Kratos may get stuck on some collision there for a little bit, but you can always re-steer from there more to the right to reach the grapple points.
 
-Afterwards you can skip the last fight of this chapter as well since you can 
-activate the grapple point leading to the last snaketrain early if you're close 
-to it before the enemies load.
+Afterwards you can skip the last fight of this chapter as well since you can activate the grapple point leading to the last snaketrain early if you're close to it before the enemies load.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=VKm3m13Tq6c
 
 
-Other: at the end of the level, you can use the first grapple in the series to 
-do a Shield Jump back on top of the ruined snaketrain you came from. Probably 
-not useful, and the camera refuses to follow you to this out of bounds area 
-anyway.
+Other: at the end of the level, you can use the first grapple in the series to do a Shield Jump back on top of the ruined snaketrain you came from. Probably not useful, and the camera refuses to follow you to this out of bounds area anyway.
 
 
-Sequence break: at the end of the series of grapples, Kratos is supposed to 
-latch onto a huge wall of ice and slide it down. Don't do this. Instead, from 
-the final grapple, do a double jump at the top height towards right and follow 
-it up with Shield air attack. At the very right, tap R1 for Kratos to grasp the 
-next grapple point early. This way you skip a fight.
+Sequence break: at the end of the series of grapples, Kratos is supposed to latch onto a huge wall of ice and slide it down. Don't do this. Instead, from the final grapple, do a double jump at the top height towards right and follow it up with Shield air attack. At the very right, tap R1 for Kratos to grasp the next grapple point early. This way you skip a fight.
 
-However, doing this skip in a fresh save, Chapter 9 never appears in the 
-Chapter Select-menu afterwards. So that is an unwanted side effect.
+However, doing this skip in a fresh save, Chapter 9 never appears in the Chapter Select-menu afterwards. So that is an unwanted side effect.
 
 Videos:
 1, a part of a speedrun where this trick is used:
@@ -2356,35 +2173,24 @@ Videos:
 World weapon: Kratos can acquire a Javelin from the first autoscroller fight.
 
 
-Other: for some reason elemental combo finisher effects are in slow motion 
-during the first part of the autoscroller. Doing "Captain Planet" glitch yields 
-impressive results as the multiple elemental finishers all pile into one slowed 
-down mess.
+Other: for some reason elemental combo finisher effects are in slow motion during the first part of the autoscroller. Doing "Captain Planet" glitch yields impressive results as the multiple elemental finishers all pile into one slowed down mess.
 
 
-Other: inside the snaketrain slide that interrupts the autoscroller, steering 
-as much to the right as you can sometimes lets Kratos slip past the death 
-collision on the way, letting him fall out of bounds. But this doesn't seem to 
-be very useful since there is nothing beneath.
+Other: inside the snaketrain slide that interrupts the autoscroller, steering as much to the right as you can sometimes lets Kratos slip past the death collision on the way, letting him fall out of bounds. But this doesn't seem to be very useful since there is nothing beneath.
 
 Videos:
 1, AKheon's vid:
         https://youtu.be/R8Tqnly5-Qw?t=81
 
 
-Other: at the end of the snaketrain slide, it's not a good idea to steer to the 
-left too much either. This is because jumping let or steering more to the left 
-lets Kratos fall down the vertical ice wall faster than normal, and if he is 
-too fast, he will miss the snaketrain that is coming and dies! So yeah... no 
-rush.
+Other: at the end of the snaketrain slide, it's not a good idea to steer to the left too much either. This is because jumping let or steering more to the left lets Kratos fall down the vertical ice wall faster than normal, and if he is too fast, he will miss the snaketrain that is coming and dies! So yeah... no rush.
 
 Videos:
 1, AKheon's vid:
         https://youtu.be/R8Tqnly5-Qw?t=96
 
 
-Other: occasionally some Bug enemies can spawn late and they appear along 
-Kratos as he is sliding down the snaketrain.
+Other: occasionally some Bug enemies can spawn late and they appear along Kratos as he is sliding down the snaketrain.
 
 
 World weapon: Kratos can get a Club from a later autoscroller fight.
@@ -2394,45 +2200,27 @@ Sequence break: skip a part of the snaketrain ride
 
 Using Poseidon Tremble slide glitch, Kratos can fly directly back into the Tower from the final slide sequence. This skips a fairly lengthy cutscene and isn't too hard to do even in an RTA. Going upstairs, nothing is loaded on the roof at first - and not even the camera follows Kratos there. But the solution is to just wait near the ladder for the game to finish loading the necessary data. After that the Manticore fight and cutscenes before it start like normal.
 
-However, if you do fail the trick, there is no checkpoint close by and so the 
-game sends Kratos back to the last part of the autoscroller - almost two 
-minutes of time waste in a speedrun! As a backup strategy, do your best to keep 
-Kratos in air before the checkpoint at the last part of the snaketrain 
-activates, by doing a Broken Destiny jump for instance, along with Lightning 
-Magic when Kratos is about to land. This causes Kratos to become checkpointed 
-much later during the ride and you don't lose as much time if you fail the 
-trick.
+However, if you do fail the trick, there is no checkpoint close by and so the game sends Kratos back to the last part of the autoscroller - almost two minutes of time waste in a speedrun! As a backup strategy, do your best to keep Kratos in air before the checkpoint at the last part of the snaketrain activates, by doing a Broken Destiny jump for instance, along with Lightning Magic when Kratos is about to land. This causes Kratos to become checkpointed much later during the ride and you don't lose as much time if you fail the trick.
 
 Videos: 
 1, AKheon's vid:
         https://www.youtube.com/watch?v=zrYsioqNkvg
 
 
-Other: as mentioned, just waiting for long enough causes the snaketrain to 
-reach its destination without Kratos. If you high jump or Poseidon Tremble 
-glitch yourself to stand on the nearby mountain ridges, you can see this 
-process for yourself from a scenic viewpoint. And once the snaketrain has 
-stopped moving, you can go and jump on top of it to have it warp backwards and 
-reach its destination a second time. (c: vipeazone)
+Other: as mentioned, just waiting for long enough causes the snaketrain to reach its destination without Kratos. If you high jump or Poseidon Tremble glitch yourself to stand on the nearby mountain ridges, you can see this process for yourself from a scenic viewpoint. And once the snaketrain has stopped moving, you can go and jump on top of it to have it warp backwards and reach its destination a second time. (c: vipeazone)
 
 Videos:
 1, vipeazone's vid on Youku:
         http://v.youku.com/v_show/id_XNjg5MjExNDY4.html?f=22044595
 
 
-Speed strategy (NG+): unlike when facing Chimera, Souls work just fine against 
-Manticore. So those are a good ranged attack for when the Manticore is flying 
-and out of reach.
+Speed strategy (NG+): unlike when facing Chimera, Souls work just fine against Manticore. So those are a good ranged attack for when the Manticore is flying and out of reach.
 
 
-Wasted potential: considering the Manticore does freeze momentarily when you 
-attempt to freeze it, you'd imagine you could shatter it using the environment 
-to your advantage. But so far doing this is hard, probably impossible...
+Wasted potential: considering the Manticore does freeze momentarily when you attempt to freeze it, you'd imagine you could shatter it using the environment to your advantage. But so far doing this is hard, probably impossible...
 
 
-Other (NG+): If you do Ice Rage to the Manticore twice as fast as possible when 
-it is on ground level, you get a glitchy reaction and the Manticore slides 
-around a little without freezing.
+Other (NG+): If you do Ice Rage to the Manticore twice as fast as possible when it is on ground level, you get a glitchy reaction and the Manticore slides 'around a little without freezing.
 
 
 ## Chapter 10 - The Temple of Delphi
@@ -2440,13 +2228,10 @@ around a little without freezing.
 World weapon: a Club is lying close to where you enter the Temple.
 
 
-Sequence break: you can skip the Cerberus fight after it has started by doing a 
-Shield jump over the metal bars.
+Sequence break: you can skip the Cerberus fight after it has started by doing a Shield jump over the metal bars.
 
-An alternative but not much faster way to skip the fight is to jump over the 
-trigger that would start the whole fight. This skips the short pre-fight 
-cutscene as well as a bonus. Hey, if you have an Upgrade Jump to spare, go for 
-it... (c: findlestick)
+An alternative but not much faster way to skip the fight is to jump over the trigger that would start the whole fight. This skips the short pre-fight 
+cutscene as well as a bonus. Hey, if you have an Upgrade Jump to spare, go for it... (c: findlestick)
 
 Videos:
 1, AKheon's vid:
@@ -2461,42 +2246,25 @@ Speed strategy: you skip unfolding the staircase by doing a Shield Jump.
 Other: the Cerberus and other enemies unload when you touch the sacred mist up ahead, preventing them from being reached with stale reference bugs after that.
 
 
-Other: if you do a Shield Run away from the first sacred mist as Kratos is 
-touching it, he will keep running through the whole duration of the cutscene. 
-The camera will glitch up if you go too far. (c: vipeazone)
+Other: if you do a Shield Run away from the first sacred mist as Kratos is touching it, he will keep running through the whole duration of the cutscene. The camera will glitch up if you go too far. (c: vipeazone)
 
 Videos:
 1, vipeazone's vid:
         https://www.youtube.com/watch?v=SJ89NboYi1s#t=70
 
 
-Out of bounds: after breaking the first door using sacred mist, the walls 
-nearby are low and you can drop Kratos out of bounds with a Shield jump. So far 
-this is not very useful, though.
+Out of bounds: after breaking the first door using sacred mist, the walls nearby are low and you can drop Kratos out of bounds with a Shield jump. So far this is not very useful, though.
 
 
 Sequence break: skip most of Temple of Delphi
 
-First of all, you can skip the long cutscene where Castor and Pollux are first 
-introduced by doing a Shield jump against the side of the doorway. Kratos can 
-clip through and get into the main area without having to kick the door open 
-(which would start the cutscene).
+First of all, you can skip the long cutscene where Castor and Pollux are first introduced by doing a Shield jump against the side of the doorway. Kratos can clip through and get into the main area without having to kick the door open (which would start the cutscene).
 
-Secondly, you can use a series of Shield jumps to get directly to the platform 
-where you break the giant hourglass. First touch the sacred mist, then quickly 
-roll up the left path. Break the door, then do a Shield jump on top of the 
-door. From there you can jump through the ceiling with another jump. Do the 
-Shield jump continuously to reach the lowered chandelier. If you were quick 
-enough, the sacred mist effect is still ongoing, allowing you to shatter the 
-hourglass and reach Castor and Pollux fight instantly. (c: AKheon)
+Secondly, you can use a series of Shield jumps to get directly to the platform where you break the giant hourglass. First touch the sacred mist, then quickly roll up the left path. Break the door, then do a Shield jump on top of the door. From there you can jump through the ceiling with another jump. Do the Shield jump continuously to reach the lowered chandelier. If you were quick enough, the sacred mist effect is still ongoing, allowing you to shatter the hourglass and reach Castor and Pollux fight instantly. (c: AKheon)
 
-There is an alternative, faster way to do this but it requires an Upgrade Jump. 
-After touching sacred mist, do an Upgrade Jump (with hovering) to get over the 
-invisible wall in front of Kratos and land directly on the chandelier. (c: 
-findlestick)
+There is an alternative, faster way to do this but it requires an Upgrade Jump. After touching sacred mist, do an Upgrade Jump (with hovering) to get over the invisible wall in front of Kratos and land directly on the chandelier. (c: findlestick)
 
-Note that if you do this skip on New Game, the game will never unlock Chapter 
-11 in the Chapter Select-menu.
+Note that if you do this skip on New Game, the game will never unlock Chapter 11 in the Chapter Select-menu.
 
 Videos:
 1, AKheon's original vid:
@@ -2505,9 +2273,7 @@ Videos:
         https://www.youtube.com/watch?v=QyuEhj2hszM
 
 
-Sequence break: another way to get to the hourglass room early is to jump over 
-the wall of the corridor upstairs and drop down there. But in a speedrun, the 
-above method is faster.
+Sequence break: another way to get to the hourglass room early is to jump over the wall of the corridor upstairs and drop down there. But in a speedrun, the above method is faster.
 
 Videos:
 1, AKheon's vid:
@@ -2516,22 +2282,13 @@ Videos:
 
 Other: consequences of going to the hourglass room early
 
-If you used a shortcut to reach the hourglass area early, be careful near the 
-hourglass because jumping in its vicinity - especially going to its right side 
-- may crash the game. You can still get to the upper level, but completing the 
-puzzle like this is not possible because one of the doors in the upper level 
-can't be destroyed right now.
+If you used a shortcut to reach the hourglass area early, be careful near the hourglass because jumping in its vicinity - especially going to its right side - may crash the game. You can still get to the upper level, but completing the puzzle like this is not possible because one of the doors in the upper level can't be destroyed right now.
 
-If you activate the hourglass cutscene early, the camera will show you an empty 
-elevator shaft. Then the camera will become stuck in this position!
+If you activate the hourglass cutscene early, the camera will show you an empty elevator shaft. Then the camera will become stuck in this position!
 
-Jumping into the elevator chasm is wasted potential because nothing is loaded 
-below.
+Jumping into the elevator chasm is wasted potential because nothing is loaded below.
 
-I think it's possible to play on in the game even from here and end up at the 
-Catacombs of Delphi. Later on when returning, the door leading to the hourglass 
-room is invisible and can't be opened, causing you to get stuck. (Or this is 
-the assumption at least. Should be tested at some point.) §
+I think it's possible to play on in the game even from here and end up at the Catacombs of Delphi. Later on when returning, the door leading to the hourglass room is invisible and can't be opened, causing you to get stuck. (Or this is the assumption at least. Should be tested at some point.) §
 
 Videos:
 1, AKheon's vid of these things and more:
@@ -2540,25 +2297,20 @@ Videos:
         https://www.youtube.com/watch?v=ofYttfkLJnc#t=31
 
 
-World weapon: a Club is lying on the right path from the main hall. You can 
-also get a Shield from the approaching Satyr.
+World weapon: a Club is lying on the right path from the main hall. You can also get a Shield from the approaching Satyr.
 
 
-Speed strategy: if you want the collectibles from the right path, you can skip 
-having to push the statue if you touch the sacred mist, then jump in air and 
-keep doing Blades air attacks as the platform rises back up. With good timing, 
-Kratos will end up standing on the platform.
+Speed strategy: if you want the collectibles from the right path, you can skip having to push the statue if you touch the sacred mist, then jump in air and 
+keep doing Blades air attacks as the platform rises back up. With good timing, Kratos will end up standing on the platform.
 
-An alternative way is to do a Shield Jump on top of the barred gate before 
-fighting the enemies and from there jump to the collectibles.
+An alternative way is to do a Shield Jump on top of the barred gate before fighting the enemies and from there jump to the collectibles.
 
 Videos:
 1, vipeazone's vid of the second way:
         https://www.youtube.com/watch?v=SJ89NboYi1s#t=129
 
 
-Sequence break: you can skip fighting the electric Siren by doing a Shield jump 
-over the barred gate blocking the doorway.
+Sequence break: you can skip fighting the electric Siren by doing a Shield jump over the barred gate blocking the doorway.
 
 Videos:
 1, AKheon's vid:
@@ -2567,119 +2319,87 @@ Videos:
 
 ## Chapter 11 - Delphi Catacombs
 
-Out of bounds: you can go out of bounds by Shield jumping over one of the 
-locked doors on the upper level. So far not useful.
+Out of bounds: you can go out of bounds by Shield jumping over one of the locked doors on the upper level. So far not useful.
 
 
-Speed strategy?: doing a Shield Jump against a specific wall, it's possible to 
-drop down to Delphi Catacombs without using the mist. Sometimes the prompts on 
-the lower floor can't be activated after doing this, sometimes they can. I 
-guess this trick still needs to be examined more to see if it can be used as a 
-speed strategy or not.
+Speed strategy?: doing a Shield Jump against a specific wall, it's possible to drop down to Delphi Catacombs without using the mist. Sometimes the prompts on the lower floor can't be activated after doing this, sometimes they can. I guess this trick still needs to be examined more to see if it can be used as a speed strategy or not.
 
 Videos:
 1, Robin Fleming's video:
         https://www.youtube.com/watch?v=zQwjl67wBj8#t=192
 
 
-Wasted potential: it's been verified by both findlestick and Wulf2k9 that even 
-if we could skip Soul of Hades-tutorial fight, nothing would be loaded behind 
-the big gate.
+Wasted potential: it's been verified by both findlestick and Wulf2k9 that even if we could skip Soul of Hades-tutorial fight, nothing would be loaded behind the big gate.
 
 
 World weapon: you can get a Sword from the enemies in the Soul of Hades fight.
 
 
-Speed strategy: you can use Ice Rage glitch to slightly speed up the moving of 
-the stone block to the left side of the room.
+Speed strategy: you can use Ice Rage glitch to slightly speed up the moving of the stone block to the left side of the room.
 
 
-Other / speed strategy: you can upgrade break-out of the grapple prompts where 
-Kratos breaks open some mist valves and causes the hanging platforms to lower. 
-This allows him to move freely during the time the sequence is happening, and 
-might save a little time.
+Other / speed strategy: you can upgrade break-out of the grapple prompts where Kratos breaks open some mist valves and causes the hanging platforms to lower. This allows him to move freely during the time the sequence is happening, and might save a little time.
 
 
-Sequence break: after reaching the area with sacred mist and barred gates that 
-you normally disappear using the mist, you can ignore the mist entirely and 
-jump over the gates using Shield Jumps. The gates are conveniently just as high 
-as they look, and the developers accidentally left a small gap for Kratos to 
-get through from the top.
+Sequence break: after reaching the area with sacred mist and barred gates that you normally disappear using the mist, you can ignore the mist entirely and jump over the gates using Shield Jumps. The gates are conveniently just as high as they look, and the developers accidentally left a small gap for Kratos to get through from the top.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=PQFg1E2SMrI#t=39
 
 
-Other: in the same area, the flying enemies can get stuck below ground in some 
-circumstances.
+Other: in the same area, the flying enemies can get stuck below ground in some circumstances.
 
 Videos:
 1, Robin Fleming's vid:
         https://www.youtube.com/watch?v=Da1iYLnbWpU
 
 
-Other: sometimes the final gate before re-entering the hourglass room does not 
-spawn, or so it looks like.
+Other: sometimes the final gate before re-entering the hourglass room does not spawn, or so it looks like.
 
 Videos:
 1, Robin Fleming's vid:
         https://www.youtube.com/watch?v=ajRmKCKYEw0
 
 
-Wasted potential?: you can Shield run outside the Wraith fight during the pre-
-fight cutscene and thus skip it. Not sure if this is useful, though, since you 
-probably can't complete the hourglass puzzle the normal way if you do this.
+Wasted potential?: you can Shield run outside the Wraith fight during the pre-fight cutscene and thus skip it. Not sure if this is useful, though, since you probably can't complete the hourglass puzzle the normal way if you do this.
 
 
-Other: rarely you can clip past the bars to the right of the hourglass and 
-reach the corridor with chests "early". The corridor has lighting issues in it, 
-and it's easy to jump out of bounds over the walls.
+Other: rarely you can clip past the bars to the right of the hourglass and reach the corridor with chests "early". The corridor has lighting issues in it, and it's easy to jump out of bounds over the walls.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=PQFg1E2SMrI#t=63
 
 
-Wasted potential: it's possible to Ice Rage glitch the prompt of the swinging 
-platform in front of the hourglass. But it can't be utilized to break the 
-hourglass early or anything.
+Wasted potential: it's possible to Ice Rage glitch the prompt of the swinging platform in front of the hourglass. But it can't be utilized to break the hourglass early or anything.
 
 
-Speed strategy: you can climb the hourglass quick by Shield jumping on top of 
-the statue's hands carefully. Find out the spots where there is collision 
-Kratos can stand on and use them to get to the top with multiple jumps.
+Speed strategy: you can climb the hourglass quick by Shield jumping on top of the statue's hands carefully. Find out the spots where there is collision Kratos can stand on and use them to get to the top with multiple jumps.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=PQFg1E2SMrI#t=80
 
 
-Other: perhaps by doing things in wrong order, the pillar close to the 
-hourglass Kratos is supposed to tear down fails to do that. You only hear the 
-sound effect but nothing happens.
+Other: perhaps by doing things in wrong order, the pillar close to the hourglass Kratos is supposed to tear down fails to do that. You only hear the sound effect but nothing happens.
 
 Videos:
 1, findlestick's vid:
         https://www.youtube.com/watch?v=evYTq8zFSUM#t=38
 
 
-Speed strategy: from the balcony behind the hourglass, you can quickly get back 
-to the lower level by Shield jumping over the painting.
+Speed strategy: from the balcony behind the hourglass, you can quickly get back to the lower level by Shield jumping over the painting.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=PQFg1E2SMrI#t=134
 
 
-World weapon: you can get a Shield and / or a Sword from a Satyr during the 
-fight at the lower floor revisit.
+World weapon: you can get a Shield and / or a Sword from a Satyr during the fight at the lower floor revisit.
 
 
-Other: all enemies must be killed before the stone block can be moved. Rarely 
-the game may get mixed up and never end the fight, or the flying enemies have 
-wandered too far away, causing Kratos to get stuck here. This seems to be an 
-unfortunately common problem...
+Other: all enemies must be killed before the stone block can be moved. Rarely the game may get mixed up and never end the fight, or the flying enemies have wandered too far away, causing Kratos to get stuck here. This seems to be an unfortunately common problem...
 
 
 ## Chapter 12 - The Oracle's Chamber
@@ -2780,11 +2500,7 @@ Videos:
 
 Other: you can displace the boss or drop him into the pit before the special QTE-sequence. This will make the event become stuck one way or another. If Castor falls into a pit before the white-out, he never re-emerges from there and the cutscene leading up to the QTE-sequence will never begin. If Castor falls into a pit after the white-out, he will get displaced, and the QTE won't work properly, causing the boss to endlessly swing at nothingness instead of Kratos.
 
-You can also break out of this part by spamming X (and maybe R1) while the 
-screen is white. Kratos becomes free to move and the fight continues earlier 
-than it should, with the cinematic special effects like strange camera still 
-active. But again, you can't win the fight like this, so while it looks cool, 
-it's not useful at all.
+You can also break out of this part by spamming X (and maybe R1) while the screen is white. Kratos becomes free to move and the fight continues earlier than it should, with the cinematic special effects like strange camera still active. But again, you can't win the fight like this, so while it looks cool, it's not useful at all.
 
 Videos:
 1, AKheon's vid:
@@ -2820,10 +2536,7 @@ Videos:
         https://youtu.be/EIZsb_ujGtc?t=178
 
 
-Other: sometimes the boss may get a permanent slow down ring around him in 
-the final checkpoint. It doesn't matter much since the fight is almost over, 
-but it still looks strange. It slows down all other Kratos' animations except 
-the finishing QTE.
+Other: sometimes the boss may get a permanent slow down ring around him in the final checkpoint. It doesn't matter much since the fight is almost over, but it still looks strange. It slows down all other Kratos' animations except the finishing QTE.
 
 
 Speed strategy: during the part where Castor is trying to collapse the whole arena right before the final QTE, he is not defeated by damage but rather by the amount of hits you do to him. Apparently 11 hits is required to continue. Possibly the fastest way to do this is to use Lightning L1+s with full Rage and switch elements during the attack so that Kratos fires two projectiles instead of one. Soul L1+t also causes a large number of hits within seconds. (thanks to GMG)
@@ -2860,10 +2573,7 @@ Wasted potential: I tried retrying at multiple points after the boss fight to se
 
 ## Chapter 13 - The Passage of Delphi
 
-Sequence break: you can skip fixing the bridge with two Shield jumps. First, 
-use a Shield jump to get to the higher level. Then, you need to do a continuous 
-Shield Jump to bounce over the soft collision that there is a lot of before you 
-finally reach the other side.
+Sequence break: you can skip fixing the bridge with two Shield jumps. First, use a Shield jump to get to the higher level. Then, you need to do a continuous Shield Jump to bounce over the soft collision that there is a lot of before you finally reach the other side.
 
 The camera does not fix itself after having talked to the Oracle if you do this skip, so you have to do the short climbing section blind. Fortunately the camera will get fixed after that.
 
@@ -2872,8 +2582,7 @@ Videos:
         https://www.youtube.com/watch?v=WGOnr1GDJOw
 
 
-Wasted potential: you can jump over the cutscene of meeting the Oracle, but the 
-next area will not load afterwards.
+Wasted potential: you can jump over the cutscene of meeting the Oracle, but the next area will not load afterwards.
 
 Videos:
 1, findlestick's vid of jumping over the Oracle cutscene:
@@ -2889,16 +2598,12 @@ Videos:
         https://www.youtube.com/watch?v=k1WrF70NW7k#t=72
 
 
-Speed strategy: casting Fire or Ice Rage after jumping off the climbing wall, 
-Kratos' jump becomes longer and he lands on solid ground instead of having to 
-hang on the ledge first, saving a second or two.
+Speed strategy: casting Fire or Ice Rage after jumping off the climbing wall, Kratos' jump becomes longer and he lands on solid ground instead of having to hang on the ledge first, saving a second or two.
 
 
 Sequence break: Amulet of Uroborus tutorial fight skip
 
-There are multiple ways to skip the upcoming fight where the game tells you 
-more about the Amulet. The fastest known method is simply to Shield Run through 
-the pre-fight cutscene before the gate becomes lowered to block Kratos' path.
+There are multiple ways to skip the upcoming fight where the game tells you more about the Amulet. The fastest known method is simply to Shield Run through the pre-fight cutscene before the gate becomes lowered to block Kratos' path.
 
 Videos:
 1, findlestick's vid of fight skip v1 (using Broken Destiny high jump):
@@ -2909,43 +2614,28 @@ Videos:
         https://www.youtube.com/watch?v=Z55ia4Fwwro
 
 
-Other: the Amulet tutorial fight can end early if you shoot at the gate 
-carelessly using the Amulet, at least at the very start of the fight. §
+Other: the Amulet tutorial fight can end early if you shoot at the gate carelessly using the Amulet, at least at the very start of the fight. §
 
 
-World weapon: you can get Sword, Javelin or Shield from the enemies in the 
-Amulet tutorial fight.
+World weapon: you can get Sword, Javelin or Shield from the enemies in the Amulet tutorial fight.
 
 
-Other: the green Amulet screen effect sometimes becomes stuck on screen after 
-retry once you've fixed the large bridge. It should become fixed by progressing 
-onward in the level, or if you activate Amulet again at the bridge.
+Other: the green Amulet screen effect sometimes becomes stuck on screen after retry once you've fixed the large bridge. It should become fixed by progressing onward in the level, or if you activate Amulet again at the bridge.
 
 Videos:
 1, AKheon's vid (at the start):
         https://www.youtube.com/watch?v=vB9RlQqlAak
 
 
-World weapon: there's a free Sword just waiting to be picked up before 
-reaching The Cistern. You can also get Swords from the enemies that appear 
-along the Siren.
+World weapon: there's a free Sword just waiting to be picked up before reaching The Cistern. You can also get Swords from the enemies that appear along the Siren.
 
 
-Speed strategy: if you fix the bridge after the Siren fight as close to the 
-edge as possible, you actually skip a cutscene that would start after fixing 
-the bridge.
+Speed strategy: if you fix the bridge after the Siren fight as close to the edge as possible, you actually skip a cutscene that would start after fixing the bridge.
 
-Doing this also glitches up the checkpoint for The Cistern: when returning to 
-this chapter, Kratos starts from near the chests instead of near the waterway 
-like usual. Trying to return into the waterway causes the camera to follow 
-Kratos in a delayed way. You see the bridge fixing cutscene (where nothing 
-happens) when entering the waterway, and there are not one but two Swords lying 
-around the place!
+Doing this also glitches up the checkpoint for The Cistern: when returning to this chapter, Kratos starts from near the chests instead of near the waterway like usual. Trying to return into the waterway causes the camera to follow Kratos in a delayed way. You see the bridge fixing cutscene (where nothing happens) when entering the waterway, and there are not one but two Swords lying around the place!
 
 
-Other: The green Amulet effect can get stuck in this part as well after a 
-retry. The effect is stuck with Kratos until you reach beyond the Cyclops fight 
-and the game loads new areas.
+Other: The green Amulet effect can get stuck in this part as well after a retry. The effect is stuck with Kratos until you reach beyond the Cyclops fight and the game loads new areas.
 
 Videos:
 1, Akheon's vid:
@@ -2954,9 +2644,7 @@ Videos:
 
 ## Chapter 14 - The Cistern
 
-Other: if you backtrack to the bridge you just fixed, you can decay it again if 
-you want - with Kratos still standing on it. This is probably unintended, and 
-looks pretty funny.
+Other: if you backtrack to the bridge you just fixed, you can decay it again if you want - with Kratos still standing on it. This is probably unintended, and looks pretty funny.
 
 Videos:
 1, AKheon's vid:
@@ -2965,20 +2653,9 @@ Videos:
 
 Sequence break: skip Cistern re-visit fight
 
-You can skip the Cistern re-visit fight with Shield Jumps. First, go to the 
-left end of the waterway where the chests are and enter a small hidden platform 
-above them with a Shield Jump. Once Kratos is in it, he is a rather tight spot 
-and can't do other jumps, so you have to come out of there and aim a little to 
-the foreground and then heavily to the left with your next Shield Jump. If you 
-do two Shield air attacks to the correct direction, then follow it up with some 
-Broken Destiny motions, you are almost guaranteed to end up in the corridor 
-where the painting is, skipping a fight and two small cutscenes in the process. 
-(c: findlestick / AKheon)
+You can skip the Cistern re-visit fight with Shield Jumps. First, go to the left end of the waterway where the chests are and enter a small hidden platform above them with a Shield Jump. Once Kratos is in it, he is a rather tight spot and can't do other jumps, so you have to come out of there and aim a little to the foreground and then heavily to the left with your next Shield Jump. If you do two Shield air attacks to the correct direction, then follow it up with some Broken Destiny motions, you are almost guaranteed to end up in the corridor where the painting is, skipping a fight and two small cutscenes in the process. (c: findlestick / AKheon)
 
-An older method involved dropping down to ground level from the hidden platform 
-on top of the chests. After the fight begins, you can inch by the ground level 
-and go around the fight barrier blocking the exit, continuing on your way. But 
-the above method is both easier and faster.
+An older method involved dropping down to ground level from the hidden platform on top of the chests. After the fight begins, you can inch by the ground level and go around the fight barrier blocking the exit, continuing on your way. But the above method is both easier and faster.
 
 Videos:
 1, findlestick's vid of skipping the fight:
@@ -2989,29 +2666,13 @@ Videos:
 
 Sequence break: skip Cyclops fight
 
-You can skip the Cyclops fight by jumping over the small house-looking 
-structure to the left before stepping into the fighting arena. But the jump you 
-need to do must be higher than a normal Shield Jump - you need an Upgrade Jump 
-or a Combined Tactics Jump for example. Once on the structure's roof, you can 
-keep jumping to reach the other side and never encounter the Cyclops. (c: 
-findlestick)
+You can skip the Cyclops fight by jumping over the small house-looking structure to the left before stepping into the fighting arena. But the jump you need to do must be higher than a normal Shield Jump - you need an Upgrade Jump or a Combined Tactics Jump for example. Once on the structure's roof, you can keep jumping to reach the other side and never encounter the Cyclops. (c: findlestick)
 
-A new way that you can do without Upgrade Jump involves breaching a wall. The 
-two statues on both sides of the doorway have a collision flaw in them, and 
-Kratos can breach the outer corners using a Shield normal attack against them. 
-This allows him to go out of bounds, although be careful as there isn't much 
-floor there. It's worth it to interrupt the Shield attack with L1 to prevent it 
-from going too far once Kratos slips through. You should go out of bounds from 
-the right side, and from there Shield Jump / drop down to the bonus area 
-entrance. From there you can skip the Cyclops fight and bridge fixing sequence 
-like usual. (c: AKheon)
+A new way that you can do without Upgrade Jump involves breaching a wall. The two statues on both sides of the doorway have a collision flaw in them, and Kratos can breach the outer corners using a Shield normal attack against them. This allows him to go out of bounds, although be careful as there isn't much floor there. It's worth it to interrupt the Shield attack with L1 to prevent it from going too far once Kratos slips through. You should go out of bounds from the right side, and from there Shield Jump / drop down to the bonus area entrance. From there you can skip the Cyclops fight and bridge fixing sequence like usual. (c: AKheon)
 
-One final, arguably easiest way to do this skip is to Shield Run through the 
-Cyclops fight cutscene to the right to go out of bounds of the fight area, then 
-do a Tremble ledge magnetism to one of the corners of the statue to drop down 
-to the entrance to the secret area. The worst part is that you have to watch 
-the pre-fight intro cutscene, making this variation on average slowest to do. 
-(c: Robin Fleming)
+One final, arguably easiest way to do this skip is to Shield Run through the Cyclops fight cutscene to the right to go out of bounds of the fight area, then 
+do a Tremble ledge magnetism to one of the corners of the statue to drop down to the entrance to the secret area. The worst part is that you have to watch 
+the pre-fight intro cutscene, making this variation on average slowest to do. (c: Robin Fleming)
 
 Videos:
 1, findlestick's vid of using Upgrade Jump:
@@ -3024,43 +2685,24 @@ Videos:
         https://www.youtube.com/watch?v=eVCS3Y698uA
 
 
-Sequence break: you can skip fixing the bridge when backtracking to the water 
-wheel with a simple Shield Jump from the ground level.
+Sequence break: you can skip fixing the bridge when backtracking to the water wheel with a simple Shield Jump from the ground level.
 
 Videos:
 1, AKheon's vid:
         https://www.youtube.com/watch?v=kuL99Gh3YHM
 
 
-Other: if you retry from the checkpoint after having fixed the bridge, the 
-green Amulet effect will affect the camera for no reason. The effect stays on 
-until you progress onward in the game to the sidling part up ahead.
+Other: if you retry from the checkpoint after having fixed the bridge, the green Amulet effect will affect the camera for no reason. The effect stays on until you progress onward in the game to the sidling part up ahead.
 
 
-Sequence break: you can skip the water wheel revisit intro with a few well-
-placed jumps. There's a trigger that starts the intro cutscene as soon as you 
-land on the stone bridge, but you can avoid hitting it if you land on the 
-bridge from very far right. So do a Shield Jump that lands on the right end, 
-for example, and then follow it up by double jumping carefully. Now you're past 
-the trigger and didn't have to watch the cutscene.
+Sequence break: you can skip the water wheel revisit intro with a few well-placed jumps. There's a trigger that starts the intro cutscene as soon as you land on the stone bridge, but you can avoid hitting it if you land on the bridge from very far right. So do a Shield Jump that lands on the right end, for example, and then follow it up by double jumping carefully. Now you're past the trigger and didn't have to watch the cutscene.
 
 
 Sequence break: skipping water wheel puzzle
 
-First way to skip the entire water wheel fixing sequence is by using an Upgrade 
-Jump. Just Upgrade Jump (with hovering) your way up to the part of the bridge 
-where you activate the last Amulet prompt. The water wheel becomes fixed 
-instantly if you do this, so after that you can just fix the waterway and this 
-chapter is over. However: this tactic might not be mutually compatible with the 
-previous waterwheel revisit intro cutscene skip. So it overall may be faster to 
-do the intro cutscene skip and use the below speed tactics instead. (c: 
-findlestick)
+First way to skip the entire water wheel fixing sequence is by using an Upgrade Jump. Just Upgrade Jump (with hovering) your way up to the part of the bridge where you activate the last Amulet prompt. The water wheel becomes fixed instantly if you do this, so after that you can just fix the waterway and this chapter is over. However: this tactic might not be mutually compatible with the previous waterwheel revisit intro cutscene skip. So it overall may be faster to do the intro cutscene skip and use the below speed tactics instead. (c: findlestick)
 
-Even without using an Upgrade Jump you can still cut a few corners during this 
-puzzle. First, you can get to the top of the wheel early by doing continuous 
-Shield Jumps over the angled collision. You can fix the wheel entirely in just 
-one go if you're standing at the top. Then just jump on the small part of the 
-aqueduct and fix that too. Puzzle solved.
+Even without using an Upgrade Jump you can still cut a few corners during this puzzle. First, you can get to the top of the wheel early by doing continuous Shield Jumps over the angled collision. You can fix the wheel entirely in just one go if you're standing at the top. Then just jump on the small part of the aqueduct and fix that too. Puzzle solved.
 
 Videos:
 1, findlestick's vid of using an Upgrade Jump:
@@ -3069,11 +2711,7 @@ Videos:
         https://www.youtube.com/watch?v=kuL99Gh3YHM#t=14
 
 
-Other: there is a glitched Amulet point on the top of the broken bridge. If you 
-activate Amulet close to the waterwheel, Kratos attempts to fix something with 
-the Amulet, but in vain. You can try to create or decay, but that just makes 
-Kratos fist pump uselessly. After letting go of Amulet, the green Amulet-vision 
-is still active indefinitely, so this is definitely a glitch.
+Other: there is a glitched Amulet point on the top of the broken bridge. If you activate Amulet close to the waterwheel, Kratos attempts to fix something with the Amulet, but in vain. You can try to create or decay, but that just makes Kratos fist pump uselessly. After letting go of Amulet, the green Amulet-vision is still active indefinitely, so this is definitely a glitch.
 
 Videos:
 1, AKheon's vid:
